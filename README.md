@@ -1,2 +1,2 @@
-# Bigsby.github.io
-My GitHub.io page where tell a bit about myself. You see it [here](http://bigsby.github.io/).
+# Bigsby Here!
+My GitHub.io page where I tell a bit about myself. You can see it [here](http://bigsbyspot.org/).
