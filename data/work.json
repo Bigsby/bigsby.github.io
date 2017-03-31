@@ -1,13 +1,10 @@
-[
-    {
+[{
         "name": "AMBISIG",
         "link": "http://www.ambisig.com",
         "text": "My first job as a developer...the memories. In the, a bit over a, year and a half there I:",
-        "tasks": [
-            {
+        "tasks": [{
                 "text": "Worked in the implementation and maintenance of a solution for public services to manage their public money following the \"strict\" portuguese public money laws. Working with:",
-                "techs": [
-                    {
+                "techs": [{
                         "name": "Asp.Net 2.0"
                     },
                     {
@@ -25,8 +22,7 @@
             },
             {
                 "text": "Maintained a solution for municipalities to handle and charge water using:",
-                "techs": [
-                    {
+                "techs": [{
                         "name": "ASP.Net 1.1"
                     },
                     {
@@ -36,8 +32,7 @@
             },
             {
                 "text": "R&amp;Ded alternatives for 3D visualization of <url link=\"https://en.wikipedia.org/wiki/Geographic_information_system\" text=\"GIS\"></url> solutions in:",
-                "techs": [
-                    {
+                "techs": [{
                         "name": "WPF",
                         "link": "https://msdn.microsoft.com/en-us/library/ms754130(v=vs.110).aspx"
                     },
@@ -56,11 +51,9 @@
         "name": "Helponbiz",
         "link": "http://www.helponbiz.com",
         "text": "What a great company to work with, great people. There I:",
-        "tasks": [
-            {
+        "tasks": [{
                 "text": "Maintained legacy solutions in:",
-                "techs": [
-                    {
+                "techs": [{
                         "name": "Classic ASP",
                         "link": "https://msdn.microsoft.com/en-us/library/aa286483.aspx"
                     },
@@ -74,8 +67,7 @@
             },
             {
                 "text": "Conceptualized, architectured and implemented a generic and configurable <url link=\"https://en.wikipedia.org/wiki/Business_process_management\" text=\"BPM\"></url> solution using:",
-                "techs": [
-                    {
+                "techs": [{
                         "name": "HttpListener",
                         "link": "https://msdn.microsoft.com/en-us/library/system.net.httplistener(v=vs.110).aspx",
                         "description": "Self-hosted server"
@@ -98,11 +90,9 @@
         "name": "Escher Group",
         "link": "https://www.eschergroup.com/",
         "text": "Oh! brave new world! My first job in Ireland, and for a multinational corporation and world leading company. What a learning experience. There I:",
-        "tasks": [
-            {
+        "tasks": [{
                 "text": "Architectured and implemented a system to integrate in the company's proprietary solution <url link=\"https://www.eschergroup.com/products/track-and-trace/\" text=\"track and tracing\"></url> of postal packages following <url link=\"http://www.upu.int/en/activities/standards/upu-technical-standards.html\" text=\"UPU Standards\"></url> using:",
-                "techs": [
-                    {
+                "techs": [{
                         "name": ".Net 3.5"
                     },
                     {
@@ -122,8 +112,7 @@
             },
             {
                 "text": "Maintained the existing solution working in:",
-                "techs": [
-                    {
+                "techs": [{
                         "name": "VB6"
                     },
                     {
@@ -143,8 +132,7 @@
             },
             {
                 "text": "R&Ded, PoCed, conceptualized, architectured and implemented a new solution for a strongly-typed, generic, cross-platform workflow handling (yes, another BMP) that works in and using:",
-                "techs":[
-                    {
+                "techs": [{
                         "name": "Windows: PocketPC, CE, Mobile 5+, Embedded, 7+, Phone 8+, 10 and 10 Mobile (UAP and WPF)"
                     },
                     {
@@ -169,7 +157,7 @@
                     },
                     {
                         "name": "IoC",
-                        "link": "https://en.wikipedia.org/wiki/Inversion_of_control" 
+                        "link": "https://en.wikipedia.org/wiki/Inversion_of_control"
                     },
                     {
                         "name": "PCL",
@@ -203,12 +191,10 @@
     {
         "name": "Oneview Healthcare",
         "link": "http://www.oneviewhealthcare.com/",
-        "text": "Here am in this very exciting company. So far, I've worked a bit everywhere in the companies solution from back-end to fron-end, client apps, build, setup and integration tools.",
-        "tasks":[
-            {
+        "text": "Here I am in this very exciting company. So far, I've worked a bit everywhere in the company's solution, from back-end to fron-end, client apps, build, setup and integration tools.",
+        "tasks": [{
                 "text": "Maintained and extended setup, integration and deployment tools using:",
-                "techs": [
-                    {
+                "techs": [{
                         "name": "ASP.Net MVC 4",
                         "link": "http://www.asp.net/mvc/mvc4"
                     },
@@ -228,8 +214,7 @@
             },
             {
                 "text": "Worked in porting the existing backend system to <url text=\"MicroServices\" link=\"http://microservices.io/patterns/microservices.html\"></url>, using:",
-                "techs":[
-                    {
+                "techs": [{
                         "name": "NServiceBus",
                         "link": "http://particular.net/nservicebus"
                     },
@@ -239,7 +224,7 @@
                     },
                     {
                         "name": "HL7",
-                        "link": "http://www.hl7.org/", 
+                        "link": "http://www.hl7.org/",
                         "description": "International Hospital message protocol"
                     },
                     {
@@ -254,8 +239,7 @@
             },
             {
                 "text": "Working on implementing a new architecture (here I go again) to replace the existing WPF application and make it cross-platformable, using:",
-                "techs":[
-                    {
+                "techs": [{
                         "name": "PCL",
                         "link": "https://msdn.microsoft.com/en-us/library/gg597391(v=vs.110).aspx"
                     },
