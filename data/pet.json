@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Xamarin.Forms.OAuth",
+        "link": "https://github.com/Bigsby/Xamarin.Forms.OAuth",
+        "text": "A <url link=\"http://www.nuget.org/\" text=\"Nuget\"></url> package that provides authentication for <url link=\"https://developer.xamarin.com/guides/xamarin-forms/\" text=\"Xamarin Forms\"></url> applications against a long list of <url link=\"http://oauth.net/\" text=\"OAuth\"></url> Identity Providers."
+    },
+    {
+        "name": "2048.net",
+        "link": "https://github.com/Bigsby/2048.net",
+        "text": "An implementation of <url link=\"http://2048game.com/\" text=\"2048\"></url> game in <url link=\"https://developer.xamarin.com/guides/xamarin-forms/\" text=\"Xamarin Forms\"></url> that runs (almost) everywhere (Windows 10, Windows 10 IoT in Raspberry Pi, iOS, Android, Windows 10 Mobile)"
+    },
+    {
+        "name": "NetCore",
+        "link": "http://netcore.bigsbyspot.org", 
+        "text": "A tutorial on how to create .Net Core console and web applications from scratch in and that run on Windows (10), Linux (Debian) and Mac OS X (10.11 El Capitan)."
+    },
+    {
+        "name": "Generic Presente",
+        "link": "http://presenter.bigsbyspot.org",
+        "text": "A web-based presenter that, through simple configuration, allows for slide-based presentations in two screens with notes."
+    },
+    {
+        "name": "Hello Languages",
+        "link": "http://langs.bigsbyspot.org",
+        "text": "Trying out and comparing multiple programming languages."
+    },
+    {
+        "name": "Summing Matrices",
+        "link": "http://matrix.bigsbyspot.org/",
+        "text": "Solving an old mathematical problem in a computer program implemented in various programming languages."
+    },
+    {
+        "name": "Website Boilerplate",
+        "link": "http://boilerplate.bigsbyspot.org",
+        "text": "An exploration on <url href=\"http://requirejs.org/\">RequireJS</url>, <url href=\"https://github.com/systemjs/systemjs\">SystemJS</url>, <url href=\"https://angularjs.org/\">AngularJS</url>, <url href=\"https://github.com/angular-ui/ui-router\">AngularUI Router</url>, <url href=\"https://codemirror.net/\">CodeMirror</url>, <url href=\"https://highlightjs.org/\">highlight.js</url> and <url href=\"http://prismjs.com/\">Prism</url>."
+    }
+]

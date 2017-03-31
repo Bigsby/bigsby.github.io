@@ -2,6 +2,12 @@
     "config": {
     },
     "initialData":[
-        "all"
+        "sections",
+        "development",
+        "work",
+        "pet"
+    ],
+    "styles":[
+        "styles/appStyles.css"
     ]
 }

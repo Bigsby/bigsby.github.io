@@ -5,7 +5,12 @@
     <url text="GitHub" link="https://github.com/"></url> and I've been
     <url link="https://github.com/bigsby" text="sharing my endeavours on it"></url>. Here is a list of the ones I think are, somewhat, interesting:
 </p>
-<ul>
+<ul ng-controller="petController as vm">
+    <li ng-repeat="project in vm.projects">
+        <url href="{{project.link}}" text="{{project.name}}"></url> - <span bind-html-compile="project.text"></span>
+    </li>
+</ul>
+<!--<ul>
     <li>
         <url link="https://github.com/Bigsby/Xamarin.Forms.OAuth" text="Xamarin.Forms.OAuth"></url> - A
         <url link="http://www.nuget.org/" text="Nuget"></url> package that provides authentication for
@@ -43,4 +48,4 @@
         <url href="https://highlightjs.org/">highlight.js</url> and
         <url href="http://prismjs.com/">Prism</url>.
     </li>
-</ul>
+</ul>-->

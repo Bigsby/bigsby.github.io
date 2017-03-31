@@ -1,0 +1,506 @@
+{
+    "categories": [
+        {
+            "name": "Techonologies",
+            "subCategories": [
+                {
+                    "name": "GUI Apps",
+                    "items": [
+                        {
+                            "name": "WPF",
+                            "link": "https://msdn.microsoft.com/en-us/library/ms754130(v=vs.110).aspx",
+                            "description": "3.0 to 4.5"
+                        },
+                        {
+                            "name": "Xamarin Forms",
+                            "link": "https://msdn.microsoft.com/en-us/magazine/dn973012.aspx"
+                        },
+                        {
+                            "name": "Windows UAP",
+                            "link": "https://msdn.microsoft.com/en-us/magazine/dn973012.aspx"
+                        },
+                        {
+                            "name": "Silverlight",
+                            "link": "https://www.microsoft.com/silverlight/",
+                            "description": "1 to 5"
+                        },
+                        {
+                            "name": "Windows Forms",
+                            "link": "https://msdn.microsoft.com/en-us/library/dd30h2yb(v=vs.110).aspx",
+                            "description": "2.0 and 3.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Web sites/apps",
+                    "items": [
+                        {
+                            "name": "Vanilla JS",
+                            "link": "http://vanilla-js.com/"
+                        },
+                        {
+                            "name": "RequireJS",
+                            "link": "http://requirejs.org/"
+                        },
+                        {
+                            "name": "SystemJS",
+                            "link": "https://github.com/systemjs/systemjs"
+                        },
+                        {
+                            "name": "AngularJS",
+                            "link": "https://angularjs.org/"
+                        },
+                        {
+                            "name": "Angular 2",
+                            "link": "https://angular.io/"
+                        },
+                        {
+                            "name": "jQuery",
+                            "link": "https://jquery.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Server",
+                    "items": [
+                        {
+                            "name": "ASP.Net",
+                            "link": "https://www.asp.net/",
+                            "description": "1.1 to Core"
+                        },
+                        {
+                            "name": "ASP.Net MVC",
+                            "link": "https://www.asp.net/mvc",
+                            "description": "1 to Core, including Web Api"
+                        },
+                        {
+                            "name": "ASP.Net Web Forms",
+                            "link": "https://www.asp.net/web-forms",
+                            "description": "1.0 to 3.5"
+                        },
+                        {
+                            "name": "NodeJS",
+                            "link": "https://nodejs.org/"
+                        },
+                        {
+                            "name": "Windows Azure",
+                            "link": "https://azure.microsoft.com/"
+                        },
+                        {
+                            "name": "WCF",
+                            "link": "https://msdn.microsoft.com/en-us/library/ms731082(v=vs.110).aspx",
+                            "subItems": [
+                                {
+                                    "name": "Message Interceptors"
+                                },
+                                {
+                                    "name": "Data Service (oData)",
+                                    "link": "http://www.odata.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Entity Framework",
+                            "link": "https://msdn.microsoft.com/data/ef.aspx",
+                            "description": "3.5 to Core"
+                        },
+                        {
+                            "name": "oAuth",
+                            "link": "http://oauth.net/",
+                            "description": "1(a) and 2"
+                        },
+                        {
+                            "name": "IIS",
+                            "link": "http://www.iis.net/",
+                            "description": "6.0 t0 10 and Express"
+                        },
+                        {
+                            "name": "Windows Services",
+                            "link": "https://msdn.microsoft.com/en-us/library/d56de412(v=vs.110).aspx"
+                        },
+                        {
+                            "name": "NServiceBus",
+                            "link": "http://particular.net/nservicebus"
+                        },
+                        {
+                            "name": "Classic ASP",
+                            "link": "https://msdn.microsoft.com/en-us/library/ms524929(v=vs.90).aspx"
+                        },
+                        {
+                            "name": "Apache HTTP Server",
+                            "link": "https://httpd.apache.org/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Software",
+            "items": [
+                {
+                    "name": "Visual Studio",
+                    "link": "https://www.visualstudio.com/",
+                    "description": "2003, 2005, 2008, 2010, 2012, 2013, 2015, 2017 and Code"
+                },
+                {
+                    "name": "Xamarin Studio",
+                    "link": "https://www.xamarin.com/platform"
+                },
+                {
+                    "name": "IIS Manager"
+                },
+                {
+                    "name": "Hyper-V Manager"
+                },
+                {
+                    "name": "VMWare Workstation",
+                    "link": "http://www.vmware.com/products/workstation.html"
+                },
+                {
+                    "name": "Microsoft Visual Basic"
+                },
+                {
+                    "name": "Microsoft Office",
+                    "link": "https://www.office.com/",
+                    "description": "Outlook, Excel and Word, mainly."
+                },
+                {
+                    "name": "Sibelius",
+                    "link": "http://www.avid.com/sibelius",
+                    "description": "5 to 7"
+                }
+            ]
+        },
+        {
+            "name": "Operating Systems",
+            "items": [
+                {
+                    "name": "Windows",
+                    "link": "https://www.microsoft.com/en-us/windows",
+                    "subItems": [
+                        {
+                            "name": "PC: XP, Vista, 7, 8, 8.1, 10 (including IoT)"
+                        },
+                        {
+                            "name": "Server: 2003, 2008, 2008R2, 2012"
+                        },
+                        {
+                            "name": "Mobile: CE, Mobile, Phone 7, Phone 8, Phone 8.1, 10 Mobile"
+                        }
+                    ]
+                },
+                {
+                    "name": "Linux",
+                    "subItems": [
+                        {
+                            "name": "PC:",
+                            "subItems": [
+                                {
+                                    "name": "Ubuntu",
+                                    "link": "http://www.ubuntu.com/desktop"
+                                },
+                                {
+                                    "name": "Debian",
+                                    "link": "https://www.debian.org/"
+                                },
+                                {
+                                    "name": "Raspbian",
+                                    "link": "https://www.raspbian.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Server:",
+                            "subItems": [
+                                {
+                                    "name": "Red Hat",
+                                    "link": "https://www.redhat.com/"
+                                },
+                                {
+                                    "name": "Ubuntu",
+                                    "link": "http://www.ubuntu.com/server"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac OS",
+                    "link": "http://www.apple.com/ie/macos/sierra/",
+                    "description": "9 to macOS"
+                }
+            ]
+        },
+        {
+            "name": "Programming Languages",
+            "items": [
+                {
+                    "name": "C#",
+                    "link": "https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx",
+                    "description": "3 to 7"
+                },
+                {
+                    "name": "HTML",
+                    "link": "https://www.w3schools.com/tags/default.asp",
+                    "description": "many flavours, including 5"
+                },
+                {
+                    "name": "TypeScript",
+                    "link": "https://www.typescriptlang.org/",
+                    "description": "1 and 2"
+                },
+                {
+                    "name": "JavaScript",
+                    "link": "https://www.javascript.com/"
+                },
+                {
+                    "name": "JSON",
+                    "link": "http://www.json.org/"
+                },
+                {
+                    "name": "XML and SOAP",
+                    "link": "https://www.w3schools.com/xml/xml_soap.asp"
+                },
+                {
+                    "name": "Razor",
+                    "link": "https://docs.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c"
+                },
+                {
+                    "name": "CSS",
+                    "link": "https://www.w3schools.com/css/css_intro.asp",
+                    "subItems": [
+                        {
+                            "name": "{less}",
+                            "link": "http://lesscss.org/"
+                        },
+                        {
+                            "name": "Sass",
+                            "link": "http://sass-lang.com/guide"
+                        }
+                    ]
+                },
+                {
+                    "name": "F#",
+                    "link": "http://fsharp.org/"
+                },
+                {
+                    "name": "C++",
+                    "link": "https://isocpp.org/"
+                },
+                {
+                    "name": "Python",
+                    "link": "https://www.python.org/"
+                },
+                {
+                    "name": "Ruby",
+                    "link": "https://www.ruby-lang.org"
+                },
+                {
+                    "name": "Go",
+                    "link": "https://golang.org/"
+                },
+                {
+                    "name": "PowerShell",
+                    "link": "https://msdn.microsoft.com/en-us/powershell/mt173057.aspx"
+                },
+                {
+                    "name": "PHP",
+                    "link": "http://php.net/"
+                },
+                {
+                    "name": "Java",
+                    "link": "https://java.com"
+                },
+                {
+                    "name": "Perl",
+                    "link": "https://perl.org"
+                },
+                {
+                    "name": "VB.Net",
+                    "link": "https://msdn.microsoft.com/en-us/library/aa712050(v=vs.71).aspx"
+                },
+                {
+                    "name": "VBScript",
+                    "link": "https://www.w3schools.com/asp/asp_ref_vbscript_functions.asp"
+                },
+                {
+                    "name": "VB6",
+                    "link": "https://msdn.microsoft.com/en-us/vstudio/ms788229.aspx"
+                },
+                {
+                    "name": "VBA",
+                    "link": "https://msdn.microsoft.com/en-us/library/office/ee814735(v=office.14).aspx"
+                }
+            ]
+        },
+        {
+            "name": "Miscelaneous",
+            "subCategories": [
+                {
+                    "name": "Versioning",
+                    "items": [
+                        {
+                            "name": "Git",
+                            "link": "https://git-scm.com/"
+                        },
+                        {
+                            "name": "Team Foundation Server",
+                            "link": "https://www.visualstudio.com/en-us/products/tfs-overview-vs.aspx"
+                        },
+                        {
+                            "name": "Visual Source Safe",
+                            "link": "https://msdn.microsoft.com/en-us/library/3h0544kx(v=vs.80).aspx"
+                        },
+                        {
+                            "name": "Perforce",
+                            "link": "https://www.perforce.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Build, Test & Deployment",
+                    "items": [
+                        {
+                            "name": "Bamboo",
+                            "link": "https://www.atlassian.com/software/bamboo"
+                        },
+                        {
+                            "name": "VSTS",
+                            "link": "https://www.visualstudio.com/team-services/",
+                            "description": "Former VSO"
+                        },
+                        {
+                            "name": "TeamCity",
+                            "link": "https://www.jetbrains.com/teamcity/"
+                        },
+                        {
+                            "name": "Jenkins",
+                            "link": "https://jenkins.io/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Test",
+                    "items": [
+                        {
+                            "name": "NUnit",
+                            "link": "https://github.com/nunit/nunit"
+                        },
+                        {
+                            "name": "DbUnit.NET",
+                            "link": "http://dbunit-net.sourceforge.net/GettingStarted.html"
+                        },
+                        {
+                            "name": "SpecFlow",
+                            "link": "http://specflow.org/"
+                        },
+                        {
+                            "name": "Appium",
+                            "link": "http://appium.io/"
+                        },
+                        {
+                            "name": "Xamarin Test Cloud",
+                            "link": "https://www.xamarin.com/test-cloud"
+                        },
+                        {
+                            "name": "SauceLabs",
+                            "link": "https://saucelabs.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Deploy",
+                    "items": [
+                        {
+                            "name": "HockeyApp",
+                            "link": "https://hockeyapp.net/"
+                        },
+                        {
+                            "name": "TestFlight",
+                            "link": "https://developer.apple.com/testflight/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Databases",
+                    "items": [
+                        {
+                            "name": "Microsoft SQL Server",
+                            "link": "https://www.microsoft.com/en-us/sql-server/",
+                            "description": "2000, 2005, 2008, 2012 (including Express)"
+                        },
+                        {
+                            "name": "Azure DocumentDB",
+                            "link": "https://azure.microsoft.com/en-us/services/documentdb/"
+                        },
+                        {
+                            "name": "MySQL",
+                            "link": "https://www.mysql.com/"
+                        },
+                        {
+                            "name": "SQLite",
+                            "link": "https://www.sqlite.org/"
+                        },
+                        {
+                            "name": "Oracle",
+                            "link": "https://www.oracle.com/database/index.html"
+                        }
+                    ]
+                },
+                {
+                    "name": "Other",
+                    "items": [
+                        {
+                            "name": "NuGet",
+                            "link": "http://www.nuget.org/"
+                        },
+                        {
+                            "name": "npm",
+                            "link": "https://www.npmjs.com/"
+                        },
+                        {
+                            "name": "Bower",
+                            "link": "https://bower.io/"
+                        },
+                        {
+                            "name": "Gulp",
+                            "link": "http://gulpjs.com/"
+                        },
+                        {
+                            "name": "MS Build",
+                            "link": "https://msdn.microsoft.com/en-us/library/dd393574.aspx"
+                        },
+                        {
+                            "name": "NAnt",
+                            "link": "http://nant.sourceforge.net/"
+                        },
+                        {
+                            "name": "UDP, TCP and HTTP handling"
+                        },
+                        {
+                            "name": "I'm very, very fond of:",
+                            "subItems": [
+                                {
+                                    "name": "<Generics>",
+                                    "link": "https://msdn.microsoft.com/en-us/library/ms172192(v=vs.110).aspx"
+                                },
+                                {
+                                    "name": "Reflection and Emit",
+                                    "link": "https://msdn.microsoft.com/en-us/library/f7ykdhsy(v=vs.110).aspx"
+                                },
+                                {
+                                    "name": "Serialization",
+                                    "link": "https://msdn.microsoft.com/en-us/library/ms973893.aspx"
+                                },
+                                {
+                                    "name": "Metadata",
+                                    "link": "https://msdn.microsoft.com/en-us/library/xcd8txaw(v=vs.110).aspx"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
