@@ -6,7 +6,7 @@
     <title>Bigsby - a developer</title>
     <meta name="keywords" content=".Net,.Net Core,JavaScript,AngularJS,Angular2,CSS,C#,developer" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="styles/coreStyles.css" />
+    <link rel="stylesheet" href="base/styles/coreStyles.css" />
 </head>
 
 <body>
@@ -30,13 +30,18 @@
         <span class="copy">&copy; 2017 Bigsby</span>
     </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/systemjs/0.20.10/system.js"></script>
-    <script src="scripts/core/bootstrap.js"></script>
+    <script src="base/scripts/bootstrap.js"></script>
     <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
                 (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date(); a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
         })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
         ga('create', 'UA-79736180-1', 'auto');
