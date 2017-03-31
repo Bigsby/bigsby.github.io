@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "Xamarin.Forms.OAuth",
         "link": "https://github.com/Bigsby/Xamarin.Forms.OAuth",
         "text": "A <url link=\"http://www.nuget.org/\" text=\"Nuget\"></url> package that provides authentication for <url link=\"https://developer.xamarin.com/guides/xamarin-forms/\" text=\"Xamarin Forms\"></url> applications against a long list of <url link=\"http://oauth.net/\" text=\"OAuth\"></url> Identity Providers."
@@ -11,11 +10,11 @@
     },
     {
         "name": "NetCore",
-        "link": "http://netcore.bigsbyspot.org", 
+        "link": "http://netcore.bigsbyspot.org",
         "text": "A tutorial on how to create .Net Core console and web applications from scratch in and that run on Windows (10), Linux (Debian) and Mac OS X (10.11 El Capitan)."
     },
     {
-        "name": "Generic Presente",
+        "name": "Generic Presenter",
         "link": "http://presenter.bigsbyspot.org",
         "text": "A web-based presenter that, through simple configuration, allows for slide-based presentations in two screens with notes."
     },
