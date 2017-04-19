@@ -32,5 +32,10 @@
         "name": "Website Boilerplate",
         "link": "http://boilerplate.bigsbyspot.org",
         "text": "An exploration on <url href=\"http://requirejs.org/\">RequireJS</url>, <url href=\"https://github.com/systemjs/systemjs\">SystemJS</url>, <url href=\"https://angularjs.org/\">AngularJS</url>, <url href=\"https://github.com/angular-ui/ui-router\">AngularUI Router</url>, <url href=\"https://codemirror.net/\">CodeMirror</url>, <url href=\"https://highlightjs.org/\">highlight.js</url> and <url href=\"http://prismjs.com/\">Prism</url>."
+    },
+    {
+        "name": "Tower of Bab-IL",
+        "link": "http://babil.bigsbyspot.org",
+        "text": "A dive into the low-level <url href=\"https://dot.net\">.Net</url>: programming languages, compilers, CIL, references, limitations and incompatibilities."
     }
 ]
