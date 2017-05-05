@@ -276,6 +276,10 @@
                     {
                         "name": "ASP.Net Web API",
                         "link": "https://www.asp.net/web-api"
+                    },
+                    {
+                        "name": "SignalR",
+                        "link": "https://www.asp.net/signalr"
                     }
                 ]
             }
