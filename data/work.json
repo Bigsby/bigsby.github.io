@@ -280,6 +280,21 @@
                     {
                         "name": "SignalR",
                         "link": "https://www.asp.net/signalr"
+                    },
+                    {
+                        "name": "OWIN",
+                        "link": "http://owin.org/"
+                    },
+                    {
+                        "name": "RabbitMQ",
+                        "link": "https://www.rabbitmq.com/"
+                    },
+                    {
+                        "name": "CA, SSL and Client Certificates"
+                    },
+                    {
+                        "name": "Octupus Deploy",
+                        "link": "https://octopus.com/"
                     }
                 ]
             }

@@ -66,12 +66,27 @@
                         {
                             "name": "ASP.Net MVC",
                             "link": "https://www.asp.net/mvc",
-                            "description": "1 to Core, including Web Api"
+                            "description": "1 to Core"
                         },
                         {
                             "name": "ASP.Net Web Forms",
                             "link": "https://www.asp.net/web-forms",
                             "description": "1.0 to 3.5"
+                        },
+                        {
+                            "name": "ASP.Net Web API",
+                            "link": "https://www.asp.net/web-api"
+                        },
+                        {
+                            "name": "SignalR",
+                            "link": "https://www.asp.net/signalr"
+                        },
+                        {
+                            "name": "OWIN",
+                            "link": "http://owin.org/"
+                        },
+                        {
+                            "name": "CA, SSL and Client Certificates"
                         },
                         {
                             "name": "NodeJS",
@@ -115,6 +130,14 @@
                         {
                             "name": "NServiceBus",
                             "link": "http://particular.net/nservicebus"
+                        },
+                        {
+                            "name": "RabbitMQ",
+                            "link": "https://www.rabbitmq.com/"
+                        },
+                        {
+                            "name": "MSMQ",
+                            "link": "https://msdn.microsoft.com/en-us/library/ms711472(v=vs.85).aspx"
                         },
                         {
                             "name": "Classic ASP",
@@ -411,6 +434,10 @@
                         {
                             "name": "Wix toolset",
                             "link": "http://wixtoolset.org/"
+                        },
+                        {
+                            "name": "Octupus Deploy",
+                            "link": "https://octopus.com/"
                         }
                     ]
                 },
@@ -467,7 +494,7 @@
                         {
                             "name": "I'm very, very fond of:",
                             "subItems": [{
-                                    "name": "<Generics>",
+                                    "name": "&lt;Generics&gt;",
                                     "link": "https://msdn.microsoft.com/en-us/library/ms172192(v=vs.110).aspx"
                                 },
                                 {
