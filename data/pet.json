@@ -37,5 +37,10 @@
         "name": "Tower of Bab-IL",
         "link": "http://babil.bigsbyspot.org",
         "text": "<em>Work in Progress</em> - A dive into the low-level <url href=\"https://dot.net\">.Net</url>: programming languages, compilers, CIL, references, limitations and incompatibilities."
+    },
+    {
+        "name": "Music Notation Standardization",
+        "link": "https://www.w3.org/community/music-notation/participants",
+        "text": "It took me sometime but I, finally, got to join the software developer and the \"musician\" sides of me and started participating in the creation of the all new music notation standards."
     }
 ]
