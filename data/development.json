@@ -173,6 +173,10 @@
                     "link": "http://www.vmware.com/products/workstation.html"
                 },
                 {
+                    "name": "VirtualBox",
+                    "link": "https://www.virtualbox.org/"
+                },
+                {
                     "name": "Microsoft Visual Basic"
                 },
                 {
@@ -293,7 +297,7 @@
                     "link": "http://fsharp.org/"
                 },
                 {
-                    "name": "C++",
+                    "name": "C/C++",
                     "link": "https://isocpp.org/"
                 },
                 {
@@ -400,6 +404,10 @@
                             "link": "https://github.com/nunit/nunit"
                         },
                         {
+                            "name": "xUnit",
+                            "link": "https://xunit.github.io/"
+                        },
+                        {
                             "name": "DbUnit.NET",
                             "link": "http://dbunit-net.sourceforge.net/GettingStarted.html"
                         },
@@ -494,8 +502,7 @@
                         {
                             "name": "HL7 - Health Level Seven",
                             "link": "http://www.hl7.org/",
-                            "subItems":[
-                                {
+                            "subItems": [{
                                     "name": "Mirth",
                                     "link": "https://www.mirth.com/"
                                 },

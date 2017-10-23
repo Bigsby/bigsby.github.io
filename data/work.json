@@ -265,6 +265,10 @@
                         "link": "https://msdn.microsoft.com/en-us/library/ms754130(v=vs.110).aspx"
                     },
                     {
+                        "name": "Serilog",
+                        "link": "https://serilog.net/"
+                    },
+                    {
                         "name": "Xamarin Forms",
                         "link": "https://developer.xamarin.com/guides/xamarin-forms/",
                         "description": "UWP, Android and iOS"
@@ -291,6 +295,22 @@
                     },
                     {
                         "name": "CA, SSL and Client Certificates"
+                    },
+                    {
+                        "name": "AutoFixture",
+                        "link": "https://github.com/AutoFixture/AutoFixture"
+                    },
+                    {
+                        "name": "Moq",
+                        "link": "https://github.com/Moq/moq4/wiki/Quickstart"
+                    },
+                    {
+                        "name": "TopShelf",
+                        "link": "http://topshelf-project.com/"
+                    },
+                    {
+                        "name": "RabbitMQ",
+                        "link": "https://www.rabbitmq.com/"
                     },
                     {
                         "name": "Octupus Deploy",
