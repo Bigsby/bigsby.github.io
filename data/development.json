@@ -10,11 +10,11 @@
                         },
                         {
                             "name": "Xamarin Forms",
-                            "link": "https://msdn.microsoft.com/en-us/magazine/dn973012.aspx"
+                            "link": "https://www.xamarin.com/forms"
                         },
                         {
-                            "name": "Windows UAP",
-                            "link": "https://msdn.microsoft.com/en-us/magazine/dn973012.aspx"
+                            "name": "Windows UWP",
+                            "link": "https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide"
                         },
                         {
                             "name": "Silverlight",
@@ -84,9 +84,6 @@
                         {
                             "name": "OWIN",
                             "link": "http://owin.org/"
-                        },
-                        {
-                            "name": "CA, SSL and Client Certificates"
                         },
                         {
                             "name": "NodeJS",
@@ -228,12 +225,20 @@
                         {
                             "name": "Server:",
                             "subItems": [{
-                                    "name": "Red Hat",
+                                    "name": "Red Hat (RHEL)",
                                     "link": "https://www.redhat.com/"
                                 },
                                 {
                                     "name": "Ubuntu",
                                     "link": "http://www.ubuntu.com/server"
+                                },
+                                {
+                                    "name": "Fedora",
+                                    "link": "https://start.fedoraproject.org/"
+                                },
+                                {
+                                    "name": "OpenBSD",
+                                    "link": "https://www.openbsd.org/"
                                 }
                             ]
                         }
@@ -394,6 +399,10 @@
                         {
                             "name": "NAnt",
                             "link": "http://nant.sourceforge.net/"
+                        },
+                        {
+                            "name": "GNU Makefile",
+                            "link": "https://www.gnu.org/software/make/manual/make.html"
                         }
                     ]
                 },
@@ -457,8 +466,9 @@
                             "description": "2000, 2005, 2008, 2012 (including Express)"
                         },
                         {
-                            "name": "Azure DocumentDB",
-                            "link": "https://azure.microsoft.com/en-us/services/documentdb/"
+                            "name": "Azure Cosmos DB",
+                            "link": "https://azure.microsoft.com/en-us/services/documentdb/",
+                            "description": "With SQL Document DB and MongoDB"
                         },
                         {
                             "name": "MySQL",
@@ -471,6 +481,10 @@
                         {
                             "name": "Oracle",
                             "link": "https://www.oracle.com/database/index.html"
+                        },
+                        {
+                            "name": "MongoDB",
+                            "link": "https://www.mongodb.com/"
                         }
                     ]
                 },
@@ -498,6 +512,9 @@
                         },
                         {
                             "name": "UDP, TCP and HTTP handling"
+                        },
+                        {
+                            "name": "CA, SSL and Client Certificates"
                         },
                         {
                             "name": "HL7 - Health Level Seven",
