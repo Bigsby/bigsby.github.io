@@ -330,6 +330,10 @@
                     "link": "https://java.com"
                 },
                 {
+                    "name": "Scala",
+                    "link": "https://www.scala-lang.org/"
+                },
+                {
                     "name": "Perl",
                     "link": "https://perl.org"
                 },
