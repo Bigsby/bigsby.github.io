@@ -315,6 +315,22 @@
                     {
                         "name": "Octupus Deploy",
                         "link": "https://octopus.com/"
+                    },
+                    {
+                        "name": "Polly",
+                        "link": "https://github.com/App-vNext/Polly"
+                    },
+                    {
+                        "name": "Samsung SEAP (Knox)",
+                        "link": "https://seap.samsung.com/samsung-knox"
+                    },
+                    {
+                        "name": "VMWare - AirWatch",
+                        "link": "https://www.air-watch.com/"
+                    },
+                    {
+                        "name": "HockeyApp",
+                        "link": "https://hockeyapp.net/"
                     }
                 ]
             }
