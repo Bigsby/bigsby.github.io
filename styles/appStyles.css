@@ -21,3 +21,18 @@ footer{
   opacity:1;
   max-height:100%;
 }
+
+.h3 {
+  font-size: 1.17em;
+  font-weight: bold;
+  color: #995522;
+}
+
+.h4 {
+  font-weight: bold;
+  color: #995522;
+}
+
+li.dev-category {
+  margin-bottom: 1em;
+}
