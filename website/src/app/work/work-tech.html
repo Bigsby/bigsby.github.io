@@ -1,0 +1,4 @@
+<div class="techContainer">
+    <a *ngIf="tech.link" [href]="tech.link">{{tech.name}}</a>
+    <span class="techTitle" *ngIf="!tech.link">{{tech.name}}</span>
+</div>

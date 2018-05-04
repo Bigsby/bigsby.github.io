@@ -25,6 +25,7 @@ header div.container {
 
 header img.avatar {
     height: 80px;
+    border-radius: 50%;
 }
 
 header span.title{
@@ -38,8 +39,14 @@ header span.title{
     overflow-y: auto;
     width: 100%;
     align-items: center;
+    flex-grow: 1;
 }
 
 footer {
     background-color: #265077;
+}
+
+a, a:visited {
+    color: #d38000;
+    text-decoration: none;
 }

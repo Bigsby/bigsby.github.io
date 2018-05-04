@@ -1,0 +1,12 @@
+<div *ngIf="!isSubCategory" class="categoryCard">
+    <header (click)="toggle(category)">{{category?.name}}</header>
+    <div *ngIf="category.isExpanded">
+        <development-category [category]="subCategory" [isSubCategory]="true" *ngFor="let subCategory of category?.subCategories"></development-category>
+        <development-item [item]="item" *ngFor="let item of category?.items"></development-item>
+    </div>
+</div>
+
+<div *ngIf="isSubCategory" class="subCategoryCard">
+    <header>{{category?.name}}</header>
+    <development-item [item]="item" *ngFor="let item of category?.items"></development-item>
+</div>

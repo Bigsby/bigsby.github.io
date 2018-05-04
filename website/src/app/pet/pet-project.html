@@ -1,0 +1,9 @@
+<div class="petProjectContainer">
+    <header (click)="toggle(project)">{{project.name}}</header>
+    <div class="projectContent" *ngIf="project.isExpanded">
+        <div class="companyText">
+            <a [href]="project.link" target="_blank">
+                <img src="assets/link.svg" />
+            </a> {{project.text}}</div>
+    </div>
+</div>

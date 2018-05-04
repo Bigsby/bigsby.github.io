@@ -1,0 +1,7 @@
+<div class="itemCard">
+    <header>
+        <a [href]="item.link" *ngIf="item.link">{{item.name}}</a>
+        <span class="itemTitle" *ngIf="!item.link">{{item.name}}</span>
+        <span class="itemDescription" *ngIf="item.description">{{item.description}}</span>
+    </header>
+</div>

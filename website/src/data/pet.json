@@ -12,12 +12,12 @@
     {
         "name": "Xamarin.Forms.OAuth",
         "link": "https://github.com/Bigsby/Xamarin.Forms.OAuth",
-        "text": "A <url link=\"http://www.nuget.org/\" text=\"Nuget\"></url> package that provides authentication for <url link=\"https://developer.xamarin.com/guides/xamarin-forms/\" text=\"Xamarin Forms\"></url> applications against a long list of <url link=\"http://oauth.net/\" text=\"OAuth\"></url> Identity Providers."
+        "text": "A Nuget package that provides authentication for Xamarin Forms applications against a long list of OAuth Identity Providers."
     },
     {
         "name": "2048.net",
         "link": "https://github.com/Bigsby/2048.net",
-        "text": "An implementation of <url link=\"http://2048game.com/\" text=\"2048\"></url> game in <url link=\"https://developer.xamarin.com/guides/xamarin-forms/\" text=\"Xamarin Forms\"></url> that runs (almost) everywhere (Windows 10, Windows 10 IoT in Raspberry Pi, iOS, Android, Windows 10 Mobile)"
+        "text": "An implementation of 2048 game in Xamarin Forms that runs (almost) everywhere (Windows 10, Windows 10 IoT in Raspberry Pi, iOS, Android, Windows 10 Mobile)"
     },
     {
         "name": "NetCore",
@@ -32,12 +32,12 @@
     {
         "name": "Website Boilerplate",
         "link": "http://boilerplate.bigsbyspot.org",
-        "text": "An exploration on <url href=\"http://requirejs.org/\">RequireJS</url>, <url href=\"https://github.com/systemjs/systemjs\">SystemJS</url>, <url href=\"https://angularjs.org/\">AngularJS</url>, <url href=\"https://github.com/angular-ui/ui-router\">AngularUI Router</url>, <url href=\"https://codemirror.net/\">CodeMirror</url>, <url href=\"https://highlightjs.org/\">highlight.js</url> and <url href=\"http://prismjs.com/\">Prism</url>."
+        "text": "An exploration on RequireJS, SystemJS, AngularJS, AngularUI Router, CodeMirror, highlight.js and Prism."
     },
     {
         "name": "Tower of Bab-IL",
         "link": "http://babil.bigsbyspot.org",
-        "text": "<em>Work in Progress</em> - A dive into the low-level <url href=\"https://dot.net\">.Net</url>: programming languages, compilers, CIL, references, limitations and incompatibilities."
+        "text": "A dive into the low-level .Net: programming languages, compilers, CIL, references, limitations and incompatibilities."
     },
     {
         "name": "Music Notation Standardization",
