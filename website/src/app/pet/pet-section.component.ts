@@ -9,7 +9,7 @@ import { DataService } from "../data.service";
         "./pet-section.component.css"
     ]
 })
-class PetSection implements OnInit {
+export class PetSection implements OnInit {
     petProjects: Project[];
     ngOnInit(): void {
         this.data.get<Project[]>("pet")
@@ -28,7 +28,7 @@ class PetSection implements OnInit {
         "./pet-section.component.css"
     ]
 })
-class PetProject {
+export class PetProject {
     @Input() project: Project;
 
     toggle(project: Project) {

@@ -10,7 +10,7 @@ import { DataService } from "./../data.service";
         "./development-section.component.css"
     ]
 })
-class DevelopmentSection implements OnInit {
+export class DevelopmentSection implements OnInit {
     developmentData: DevelopmentData;
     ngOnInit(): void {
         this.data.get<DevelopmentData>("development")
@@ -42,7 +42,7 @@ class DevelopmentSection implements OnInit {
         )
     ]
 })
-class DevelopmentCategory {
+export class DevelopmentCategory {
     @Input() category: Category;
     @Input() isSubCategory: boolean;
 
@@ -58,7 +58,7 @@ class DevelopmentCategory {
         "./development-section.component.css"
     ]
 })
-class DevelopmentItem {
+export class DevelopmentItem {
     @Input() item: Item;
 }
 

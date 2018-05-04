@@ -9,7 +9,7 @@ import { DataService } from "./../data.service";
         "./work-section.component.css"
     ]
 })
-class WorkSection implements OnInit {
+export class WorkSection implements OnInit {
     companies: Company[];
     ngOnInit(): void {
         this.data.get<Company[]>("work")
@@ -29,7 +29,7 @@ class WorkSection implements OnInit {
         "./work-section.component.css"
     ]
 })
-class WorkCompany {
+export class WorkCompany {
     @Input()company: Company;
 
     toggle(company: Company) {
@@ -44,7 +44,7 @@ class WorkCompany {
         "./work-section.component.css"
     ]
 })
-class WorkTask {
+export class WorkTask {
     @Input()task: Task;
 }
 
@@ -55,7 +55,7 @@ class WorkTask {
         "./work-section.component.css"
     ]
 })
-class WorkTech {
+export class WorkTech {
     @Input()tech: Tech;
 }
 
@@ -69,7 +69,7 @@ class Company{
 
 class Task {
     text: string;
-
+    techs: Tech[];
 }
 
 class Tech {
