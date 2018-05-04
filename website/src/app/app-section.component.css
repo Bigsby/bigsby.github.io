@@ -1,0 +1,14 @@
+:host {
+    width: 800px;
+}
+
+h1 {
+    color: #dd8800;
+    user-select: none;
+}
+
+@media only screen and (max-width: 767px) {
+    :host {
+        width: 100%;
+    }
+}

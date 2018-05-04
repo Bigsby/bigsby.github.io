@@ -1,0 +1,9 @@
+<div class="companyContainer">
+    <header (click)="toggle(company)">{{company.name}} </header>
+    <div class="companyContent" *ngIf="company.isExpanded">
+        <div class="companyText"><a [href]="company.link" target="_blank"><img src="assets/link.svg"/></a>  {{company.text}}</div>
+        <div class="tasksContainer">
+            <work-task [task]="task" *ngFor="let task of company.tasks"></work-task>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,52 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    height: 100%;
+}
+
+header {
+    width: 100%;
+    background-color: #265077;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    justify-content: center;
+}
+
+header div.container {
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+
+header img.avatar {
+    height: 80px;
+    border-radius: 50%;
+}
+
+header span.title{
+    font-size: 1.5em;
+    margin-left: 2em;
+}
+
+.sectionsContainer{
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    width: 100%;
+    align-items: center;
+    flex-grow: 1;
+}
+
+footer {
+    background-color: #265077;
+}
+
+a, a:visited {
+    color: #d38000;
+    text-decoration: none;
+}

@@ -1,0 +1,362 @@
+[
+    {
+        "name": "AMBISIG",
+        "link": "http://www.ambisig.pt",
+        "text": "My first job as a developer...the memories. In the, a bit over a, year and a half there I ...",
+        "tasks": [
+            {
+                "text": "Worked in the implementation and maintenance of a solution for public services to manage their public money following the \"strict\" portuguese public money laws. Working with:",
+                "techs": [
+                    {
+                        "name": "Asp.Net 2.0"
+                    },
+                    {
+                        "name": "Telerik Asp.Net RadControls suit",
+                        "link": "http://www.telerik.com/products/aspnet-ajax.aspx"
+                    },
+                    {
+                        "name": "MS SQL 2005"
+                    },
+                    {
+                        "name": "Crystal Reports",
+                        "link": "http://www.sap.com/solution/sme/software/analytics/crystal-bi/index.html"
+                    }
+                ]
+            },
+            {
+                "text": "Maintained a solution for municipalities to handle and charge water using:",
+                "techs": [
+                    {
+                        "name": "ASP.Net 1.1"
+                    },
+                    {
+                        "name": "MS SQL 2000"
+                    }
+                ]
+            },
+            {
+                "text": "R&Ded alternatives for 3D visualization of GIS solutions in:",
+                "techs": [
+                    {
+                        "name": "WPF",
+                        "link": "https://msdn.microsoft.com/en-us/library/ms754130(v=vs.110).aspx"
+                    },
+                    {
+                        "name": "Silverlight",
+                        "link": "https://www.microsoft.com/silverlight/"
+                    }
+                ]
+            },
+            {
+                "text": "Documented the principles of a new framework to be implement in .Net over which all company solutions would be implemented."
+            }
+        ]
+    },
+    {
+        "name": "Helponbiz",
+        "link": "http://www.helponbiz.pt",
+        "text": "What a great company to work with, great people. There I:",
+        "tasks": [
+            {
+                "text": "Maintained legacy solutions in:",
+                "techs": [
+                    {
+                        "name": "Classic ASP",
+                        "link": "https://msdn.microsoft.com/en-us/library/aa286483.aspx"
+                    },
+                    {
+                        "name": "VB Script"
+                    },
+                    {
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            {
+                "text": "Conceptualized, architectured and implemented a generic and configurable BPM solution using:",
+                "techs": [
+                    {
+                        "name": "HttpListener",
+                        "link": "https://msdn.microsoft.com/en-us/library/system.net.httplistener(v=vs.110).aspx",
+                        "description": "Self-hosted server"
+                    },
+                    {
+                        "name": "WCF Data Services",
+                        "link": "https://msdn.microsoft.com/en-us/library/cc668794(v=vs.110).aspx",
+                        "description": "Dynamically generated from cofiguration OData end-points"
+                    },
+                    {
+                        "name": "Sencha",
+                        "link": "https://www.sencha.com/",
+                        "description": "Dynamically generated client side templates"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Escher Group",
+        "link": "https://www.eschergroup.com/",
+        "text": "Oh! brave new world! My first job in Ireland, and for a multinational corporation and world leading company. What a learning experience. There I:",
+        "tasks": [
+            {
+                "text": "Architectured and implemented a system to integrate in the company's proprietary solution track and tracing of postal packages following UPU Standards using:",
+                "techs": [
+                    {
+                        "name": ".Net 3.5"
+                    },
+                    {
+                        "name": "ASP.Net MVC 4",
+                        "link": "http://www.asp.net/mvc/mvc4"
+                    },
+                    {
+                        "name": "AGString",
+                        "link": "https://en.wikipedia.org/wiki/Attribute_grammar",
+                        "description": "The company's amazing proprietary message system and serialization"
+                    },
+                    {
+                        "name": "Reflection",
+                        "link": "https://msdn.microsoft.com/en-us/library/system.reflection(v=vs.110).aspx"
+                    }
+                ]
+            },
+            {
+                "text": "Maintained the existing solution working in:",
+                "techs": [
+                    {
+                        "name": "VB6"
+                    },
+                    {
+                        "name": "C/C++"
+                    },
+                    {
+                        "name": "CashierPro",
+                        "link": "http://www.cashierpro.com/"
+                    },
+                    {
+                        "name": ".Net 3.5"
+                    },
+                    {
+                        "name": "...and a couple of internal proprietary languages and tools."
+                    }
+                ]
+            },
+            {
+                "text": "R&Ded, PoCed, conceptualized, architectured and implemented a new solution for a strongly-typed, generic, cross-platform workflow handling (yes, another BMP) that works in and using:",
+                "techs": [
+                    {
+                        "name": "Windows: PocketPC, CE, Mobile 5+, Embedded, 7+, Phone 8+, 10 and 10 Mobile (UAP and WPF)"
+                    },
+                    {
+                        "name": "Android"
+                    },
+                    {
+                        "name": "iOS"
+                    },
+                    {
+                        "name": ".Net 3.5"
+                    },
+                    {
+                        "name": "WPF"
+                    },
+                    {
+                        "name": "Resco MobileForms Toolkit",
+                        "link": "http://www.resco.net/mobileformstoolkit/"
+                    },
+                    {
+                        "name": "DI",
+                        "link": "https://en.wikipedia.org/wiki/Dependency_injection"
+                    },
+                    {
+                        "name": "IoC",
+                        "link": "https://en.wikipedia.org/wiki/Inversion_of_control"
+                    },
+                    {
+                        "name": "PCL",
+                        "link": "https://msdn.microsoft.com/en-us/library/gg597391(v=vs.110).aspx"
+                    },
+                    {
+                        "name": "Xamarin iOS, Android and Forms",
+                        "link": "https://www.xamarin.com/"
+                    },
+                    {
+                        "name": "Asp.Net MVC 4 Web Api",
+                        "link": "http://www.asp.net/mvc/mvc4"
+                    },
+                    {
+                        "name": "NuGet",
+                        "link": "http://www.nuget.org/",
+                        "description": "Self-hosted"
+                    },
+                    {
+                        "name": "NAnt",
+                        "link": "http://nant.sourceforge.net/"
+                    },
+                    {
+                        "name": "Bamboo Build Server",
+                        "link": "https://www.atlassian.com/software/bamboo"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Oneview Healthcare",
+        "link": "http://www.oneviewhealthcare.com/",
+        "text": "Here I am in this very exciting company. So far, I've worked a bit everywhere in the company's solution, from back-end to fron-end, client apps, build, setup and integration tools.",
+        "tasks": [
+            {
+                "text": "Maintained and extended setup, integration and deployment tools using:",
+                "techs": [
+                    {
+                        "name": "ASP.Net MVC 4",
+                        "link": "http://www.asp.net/mvc/mvc4"
+                    },
+                    {
+                        "name": "Wix toolset",
+                        "link": "http://wixtoolset.org/"
+                    },
+                    {
+                        "name": "MS Build",
+                        "link": "https://msdn.microsoft.com/en-us/library/wea2sca5(v=vs.90).aspx"
+                    },
+                    {
+                        "name": "PowerShell",
+                        "link": "https://msdn.microsoft.com/en-us/powershell/mt173057.aspx"
+                    }
+                ]
+            },
+            {
+                "text": "Worked in porting the existing backend system to MicroServices, using:",
+                "techs": [
+                    {
+                        "name": "NServiceBus",
+                        "link": "http://particular.net/nservicebus"
+                    },
+                    {
+                        "name": "MSMQ",
+                        "link": "https://msdn.microsoft.com/en-us/library/ms711472(v=vs.85).aspx"
+                    },
+                    {
+                        "name": "RabbitMQ",
+                        "link": "https://www.rabbitmq.com/"
+                    },
+                    {
+                        "name": "Entity Framework",
+                        "link": "https://msdn.microsoft.com/en-us/library/aa937723(v=vs.113).aspx"
+                    },
+                    {
+                        "name": "HL7",
+                        "link": "http://www.hl7.org/",
+                        "description": "International Hospital message protocol"
+                    },
+                    {
+                        "name": "Mirth",
+                        "link": "https://www.mirth.com/"
+                    },
+                    {
+                        "name": "nHapi",
+                        "link": "https://github.com/duaneedwards/nHapi/"
+                    },
+                    {
+                        "name": "NUnit",
+                        "link": "https://github.com/nunit/nunit"
+                    },
+                    {
+                        "name": "DbUnit.NET",
+                        "link": "http://dbunit-net.sourceforge.net/GettingStarted.html"
+                    }
+                ]
+            },
+            {
+                "text": "Working on implementing a new architecture (here I go again) to replace the existing WPF application and make it cross-platformable, using:",
+                "techs": [
+                    {
+                        "name": "Prism",
+                        "link": "https://github.com/PrismLibrary/Prism"
+                    },
+                    {
+                        "name": "Autofac",
+                        "link": "https://autofac.org/"
+                    },
+                    {
+                        "name": "PCL",
+                        "link": "https://msdn.microsoft.com/en-us/library/gg597391(v=vs.110).aspx"
+                    },
+                    {
+                        "name": "WPF",
+                        "link": "https://msdn.microsoft.com/en-us/library/ms754130(v=vs.110).aspx"
+                    },
+                    {
+                        "name": "Serilog",
+                        "link": "https://serilog.net/"
+                    },
+                    {
+                        "name": "Xamarin Forms",
+                        "link": "https://developer.xamarin.com/guides/xamarin-forms/",
+                        "description": "UWP, Android and iOS"
+                    },
+                    {
+                        "name": ".Net Standard",
+                        "link": "https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/"
+                    },
+                    {
+                        "name": "ASP.Net Web API",
+                        "link": "https://www.asp.net/web-api"
+                    },
+                    {
+                        "name": "SignalR",
+                        "link": "https://www.asp.net/signalr"
+                    },
+                    {
+                        "name": "OWIN",
+                        "link": "http://owin.org/"
+                    },
+                    {
+                        "name": "RabbitMQ",
+                        "link": "https://www.rabbitmq.com/"
+                    },
+                    {
+                        "name": "CA, SSL and Client Certificates"
+                    },
+                    {
+                        "name": "AutoFixture",
+                        "link": "https://github.com/AutoFixture/AutoFixture"
+                    },
+                    {
+                        "name": "Moq",
+                        "link": "https://github.com/Moq/moq4/wiki/Quickstart"
+                    },
+                    {
+                        "name": "TopShelf",
+                        "link": "http://topshelf-project.com/"
+                    },
+                    {
+                        "name": "RabbitMQ",
+                        "link": "https://www.rabbitmq.com/"
+                    },
+                    {
+                        "name": "Octupus Deploy",
+                        "link": "https://octopus.com/"
+                    },
+                    {
+                        "name": "Polly",
+                        "link": "https://github.com/App-vNext/Polly"
+                    },
+                    {
+                        "name": "Samsung SEAP (Knox)",
+                        "link": "https://seap.samsung.com/samsung-knox"
+                    },
+                    {
+                        "name": "VMWare - AirWatch",
+                        "link": "https://www.air-watch.com/"
+                    },
+                    {
+                        "name": "HockeyApp",
+                        "link": "https://hockeyapp.net/"
+                    }
+                ]
+            }
+        ]
+    }
+]
