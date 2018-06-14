@@ -294,7 +294,7 @@
                         "link": "https://www.rabbitmq.com/"
                     },
                     {
-                        "name": "CA, SSL and Client Certificates"
+                        "name": "CA, TLS/SSL and Client Certificates"
                     },
                     {
                         "name": "AutoFixture",

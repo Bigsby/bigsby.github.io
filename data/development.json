@@ -116,9 +116,17 @@
                             "description": "1(a) and 2"
                         },
                         {
+                            "name": "NGINX",
+                            "link": "https://www.nginx.com/"
+                        },
+                        {
                             "name": "IIS",
                             "link": "http://www.iis.net/",
                             "description": "6.0 t0 10 and Express"
+                        },
+                        {
+                            "name": "Apache",
+                            "link": "https://httpd.apache.org/"
                         },
                         {
                             "name": "Windows Services",
@@ -139,10 +147,6 @@
                         {
                             "name": "Classic ASP",
                             "link": "https://msdn.microsoft.com/en-us/library/ms524929(v=vs.90).aspx"
-                        },
-                        {
-                            "name": "Apache HTTP Server",
-                            "link": "https://httpd.apache.org/"
                         }
                     ]
                 }
@@ -158,6 +162,10 @@
                 {
                     "name": "Xamarin Studio",
                     "link": "https://www.xamarin.com/platform"
+                },
+                {
+                    "name": "Android Studio",
+                    "link": "https://developer.android.com/studio/"
                 },
                 {
                     "name": "IIS Manager"
@@ -322,6 +330,10 @@
                     "link": "https://msdn.microsoft.com/en-us/powershell/mt173057.aspx"
                 },
                 {
+                    "name": "bash",
+                    "link": "https://www.gnu.org/software/bash/"
+                },
+                {
                     "name": "PHP",
                     "link": "http://php.net/"
                 },
@@ -352,6 +364,12 @@
                 {
                     "name": "VBA",
                     "link": "https://msdn.microsoft.com/en-us/library/office/ee814735(v=office.14).aspx"
+                },
+                {
+                    "name": "AT&T and Intel x86 Assembly"
+                },
+                {
+                    "name": "ARM Assembly"
                 }
             ]
         },
@@ -459,6 +477,10 @@
                         {
                             "name": "Octupus Deploy",
                             "link": "https://octopus.com/"
+                        },
+                        {
+                            "name": "VMWare - AirWatch",
+                            "link": "https://www.air-watch.com/"
                         }
                     ]
                 },
