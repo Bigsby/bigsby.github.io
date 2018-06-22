@@ -1,12 +1,12 @@
 [
     {
         "name": "Hello Languages",
-        "link": "http://langs.bigsbyspot.org",
+        "link": "https://langs.bigsbyspot.org",
         "text": "Trying out and comparing multiple programming languages."
     },
     {
         "name": "Tic-Tac-Toe",
-        "link": "http://tictactoe.bigsbyspot.org/",
+        "link": "https://tictactoe.bigsbyspot.org/",
         "text": "Implementing Tic-Tac-Toe Game in multiple platforms, runtimes and programing languages."
     },
     {
@@ -26,18 +26,23 @@
     },
     {
         "name": "Summing Matrices",
-        "link": "http://matrix.bigsbyspot.org/",
+        "link": "https://matrix.bigsbyspot.org/",
         "text": "Solving an old mathematical problem in a computer program implemented in various programming languages."
     },
     {
         "name": "Website Boilerplate",
-        "link": "http://boilerplate.bigsbyspot.org",
+        "link": "https://boilerplate.bigsbyspot.org",
         "text": "An exploration on <url href=\"http://requirejs.org/\">RequireJS</url>, <url href=\"https://github.com/systemjs/systemjs\">SystemJS</url>, <url href=\"https://angularjs.org/\">AngularJS</url>, <url href=\"https://github.com/angular-ui/ui-router\">AngularUI Router</url>, <url href=\"https://codemirror.net/\">CodeMirror</url>, <url href=\"https://highlightjs.org/\">highlight.js</url> and <url href=\"http://prismjs.com/\">Prism</url>."
     },
     {
         "name": "Tower of Bab-IL",
-        "link": "http://babil.bigsbyspot.org",
+        "link": "https://babil.bigsbyspot.org",
         "text": "<em>Work in Progress</em> - A dive into the low-level <url href=\"https://dot.net\">.Net</url>: programming languages, compilers, CIL, references, limitations and incompatibilities."
+    },
+    {
+        "name": "Jazz Standards Web Rendering",
+        "link": "https://jazz.bigsbyspot.org",
+        "text": "Dynamically rendering jazz standards stored as <url href=\"https://www.musicxml.com/\">musicXML</url> using <url href=\"https://github.com/0xfe/vexflow\">VexFlow</url>."
     },
     {
         "name": "Music Notation Standardization",
