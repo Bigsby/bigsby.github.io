@@ -36,3 +36,7 @@ footer{
 li.dev-category {
   margin-bottom: 1em;
 }
+
+header {
+  padding: 1em;
+}
