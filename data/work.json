@@ -339,10 +339,10 @@
     {
         "name": "Xhail",
         "link": "https://www.xhail.com/",
-        "text": "Playing the dangerous sport of mixing business and pleasure, in this case, three of my hobbies: programming, music and learning. Music software in a technology stack I never used professionally.",
+        "text": "Playing the dangerous sport of mixing business and pleasure, in this case, three of my hobbies: programming, music and learning. Music software in a technology stack, although I've mostly played with, I never used professionally, almost completely.",
         "tasks":[
             {
-                "text": "As a small startup company, you get your hands on everything. Web-based application using.",
+                "text": "As a small startup company, you get your hands on everything. Web-based application using:",
                 "techs":[
                     {
                         "name": "Ubuntu",
