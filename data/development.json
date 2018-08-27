@@ -86,6 +86,11 @@
                             "link": "http://owin.org/"
                         },
                         {
+                            "name": "Play Framework",
+                            "link": "https://www.playframework.com/",
+                            "description": "Java flavour"
+                        },
+                        {
                             "name": "NodeJS",
                             "link": "https://nodejs.org/"
                         },
@@ -166,6 +171,10 @@
                 {
                     "name": "Android Studio",
                     "link": "https://developer.android.com/studio/"
+                },
+                {
+                    "name": "IntelliJ IDEA",
+                    "link": "https://www.jetbrains.com/idea/"
                 },
                 {
                     "name": "IIS Manager"
@@ -511,6 +520,14 @@
                         {
                             "name": "MongoDB",
                             "link": "https://www.mongodb.com/"
+                        },
+                        {
+                            "name": "PostgreSQL",
+                            "link": "https://www.postgresql.org/"
+                        },
+                        {
+                            "name": "Redis",
+                            "link": "https://redis.io/"
                         }
                     ]
                 },

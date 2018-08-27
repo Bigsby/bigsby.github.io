@@ -191,7 +191,7 @@
     {
         "name": "Oneview Healthcare",
         "link": "http://www.oneviewhealthcare.com/",
-        "text": "Here I am in this very exciting company. So far, I've worked a bit everywhere in the company's solution, from back-end to fron-end, client apps, build, setup and integration tools.",
+        "text": "What a great company to be an employee. I've worked a bit everywhere in the company's solution, from back-end to fron-end, client apps, build, setup and integration tools.",
         "tasks": [{
                 "text": "Maintained and extended setup, integration and deployment tools using:",
                 "techs": [{
@@ -331,6 +331,51 @@
                     {
                         "name": "HockeyApp",
                         "link": "https://hockeyapp.net/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Xhail",
+        "link": "https://www.xhail.com/",
+        "text": "Playing the dangerous sport of mixing business and pleasure, in this case, three of my hobbies: programming, music and learning. Music software in a technology stack I never used professionally.",
+        "tasks":[
+            {
+                "text": "As a small startup company, you get your hands on everything. Web-based application using.",
+                "techs":[
+                    {
+                        "name": "Ubuntu",
+                        "link": "https://www.ubuntu.com/"
+                    },
+                    {
+                        "name": "IntelliJ IDEA",
+                        "link": "https://www.jetbrains.com/idea/"
+                    },
+                    {
+                        "name": "Play Framework (Java)",
+                        "link": "https://www.playframework.com/"
+                    },
+                    {
+                        "name": "PostgreSQL",
+                        "link": "https://www.postgresql.org/"
+                    },
+                    {
+                        "name": "Redis",
+                        "link": "https://redis.io/"
+                    },
+                    {
+                        "name": "Python",
+                        "link": "https://www.python.org/"
+                    },
+                    {
+                        "name": "jQuery",
+                        "link": "https://jquery.com/",
+                        "description": "and friends..."
+                    },
+                    {
+                        "name": "Heroku",
+                        "link": "https://www.heroku.com/"
                     }
                 ]
             }
