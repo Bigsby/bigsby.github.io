@@ -1,6 +1,6 @@
 <p>Working as a developer...full of goodies:</p>
 <ul ng-controller="workController as vm" class="noBulletList">
-    <li ng-repeat="company in vm.companies">
+    <li ng-repeat="company in vm.companies" class="work-item">
         <h3>
             <url href="{{company.link}}" text="{{company.name}}"></url>
         </h3>
