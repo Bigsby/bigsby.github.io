@@ -376,6 +376,18 @@
                     {
                         "name": "Heroku",
                         "link": "https://www.heroku.com/"
+                    },
+                    {
+                        "name": "Amazon S3",
+                        "link": "https://aws.amazon.com/s3/"
+                    },
+                    {
+                        "name": "Electron",
+                        "link": "https://electronjs.org/"
+                    },
+                    {
+                        "name": "Sass",
+                        "link": "https://sass-lang.com/"
                     }
                 ]
             }
