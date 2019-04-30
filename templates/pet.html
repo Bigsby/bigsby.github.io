@@ -1,12 +1,17 @@
 <p>
-    A developers life is one of constant learning and sharing. To live the former, I'm constantly "working" on pet projects,
-    usually, to try out some new technology, to try out some old technology I missed in my previous discoveries or just because
+    A developers life is one of constant learning and sharing. To live the former, I'm constantly "working" on pet
+    projects,
+    usually, to try out some new technology, to try out some old technology I missed in my previous discoveries or just
+    because
     it's fun. It took me some time but, eventually, I created an account on
     <url text="GitHub" link="https://github.com/"></url> and I've been
-    <url link="https://github.com/bigsby" text="sharing my endeavours on it"></url>. Here is a list of the ones I think are, somewhat, interesting:
+    <url link="https://github.com/bigsby" text="sharing my endeavours on it"></url>. Here is a list of the ones I think
+    are, somewhat, interesting:
 </p>
 <ul ng-controller="petController as vm">
     <li ng-repeat="project in vm.projects">
         <url href="{{project.link}}" text="{{project.name}}"></url> - <span bind-html-compile="project.text"></span>
     </li>
 </ul>
+<p>Some of these projects might be out-dated for the purpose in them is learning and, once that is done, there's no
+    interest in maintaining them.</p>
