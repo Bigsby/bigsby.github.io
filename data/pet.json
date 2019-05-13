@@ -1,8 +1,18 @@
 [
     {
-        "name": "Electronics and Computer Architecture and Logic",
+        "name": "Integrated Circuits Logic",
         "link": "https://ics.bigsbyspot.org/",
         "text": "In the process of learning how compueters work at a logic level, I've been trying some ICs (Integrated Circuits) to test their behavior."
+    },
+    {
+        "name": "Electronics Schematic & PCB Design",
+        "link": "https://easyeda.com/bigsby",
+        "text": "Going farther in the world of electronics, trying electronic schematics and PCB (Printed Circuit Board) design in EasyEDA."
+    },
+    {
+        "name": "Breadboard Prototyping",
+        "link": "https://www.tinkercad.com/users/eHFFBuvB9um-bigsby?category=circuits",
+        "text": "In the beginning there is the breadboard prototyping."
     },
     {
         "name": "Hello Languages",
