@@ -1,5 +1,10 @@
 [
     {
+        "name": "Advent of Code",
+        "link": "https://github.com/Bigsby/aoc",
+        "text": "Solving the very entertaining and educating puzzels of this most fum adventure"
+    },
+    {
         "name": "Hello Languages",
         "link": "http://langs.bigsbyspot.org",
         "text": "Trying out and comparing multiple programming languages."
