@@ -1,5 +1,10 @@
 [
     {
+        "name": "Advent of Code",
+        "link": "https://github.com/Bigsby/aoc",
+        "text": "Solving the very entertaining and educating puzzels of this most fum adventure"
+    },
+    {
         "name": "Integrated Circuits Logic",
         "link": "https://ics.bigsbyspot.org/",
         "text": "In the process of learning how compueters work at a logic level, I've been trying some ICs (Integrated Circuits) to test their behavior."
