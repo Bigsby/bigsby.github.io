@@ -536,6 +536,10 @@
                     "name": "Deploy",
                     "items": [
                         {
+                            "name": "Visual Studio App Center",
+                            "link": "https://appcenter.ms/"
+                        },
+                        {
                             "name": "HockeyApp",
                             "link": "https://hockeyapp.net/"
                         },
