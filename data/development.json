@@ -28,6 +28,10 @@
                             "name": "Windows Forms",
                             "link": "https://msdn.microsoft.com/en-us/library/dd30h2yb(v=vs.110).aspx",
                             "description": "2.0 and 3.0"
+                        },
+                        }
+                            "name": "React Native",
+                            "link": "https://reactnative.dev/"
                         }
                     ]
                 },
@@ -61,6 +65,14 @@
                         {
                             "name": "Vue.js",
                             "link": "https://vuejs.org/"
+                        },
+                        {
+                            "name": "React",
+                            "link": "https://reactjs.org/"
+                        },
+                        {
+                            "name": "Redux",
+                            "link": "https://redux.js.org/"
                         }
                     ]
                 },

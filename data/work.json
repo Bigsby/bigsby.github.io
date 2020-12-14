@@ -388,6 +388,18 @@
                     {
                         "name": "Sass",
                         "link": "https://sass-lang.com/"
+                    },
+                    {
+                        "name": "React Native",
+                        "link": "https://reactnative.dev/"
+                    },
+                    {
+                        "name": "Redux",
+                        "link": "https://redux.js.org/"
+                    },
+                    {
+                        "name": "TypeScript",
+                        "link": "https://www.typescriptlang.org/"
                     }
                 ]
             }
