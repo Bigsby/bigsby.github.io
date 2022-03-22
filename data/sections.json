@@ -5,11 +5,11 @@
     "bio": {
         "title": "Bio"
     },
-    "developer": {
-        "title": "A developer"
-    },
     "work": {
         "title": "Work"
+    },
+    "developer": {
+        "title": "A developer"
     },
     "pet": {
         "title": "Pet Projects"

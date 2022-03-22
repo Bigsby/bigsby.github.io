@@ -1,188 +1,117 @@
-[{
-        "name": "AMBISIG",
-        "link": "http://www.ambisig.com",
-        "text": "My first job as a developer...the memories. In the, a bit over a, year and a half there I:",
-        "tasks": [{
-                "text": "Worked in the implementation and maintenance of a solution for public services to manage their public money following the \"strict\" portuguese public money laws. Working with:",
-                "techs": [{
-                        "name": "Asp.Net 2.0"
-                    },
-                    {
-                        "name": "Telerik Asp.Net RadControls suit",
-                        "link": "http://www.telerik.com/products/aspnet-ajax.aspx"
-                    },
-                    {
-                        "name": "MS SQL 2005"
-                    },
-                    {
-                        "name": "Crystal Reports",
-                        "link": "http://www.sap.com/solution/sme/software/analytics/crystal-bi/index.html"
-                    }
-                ]
-            },
-            {
-                "text": "Maintained a solution for municipalities to handle and charge water using:",
-                "techs": [{
-                        "name": "ASP.Net 1.1"
-                    },
-                    {
-                        "name": "MS SQL 2000"
-                    }
-                ]
-            },
-            {
-                "text": "R&amp;Ded alternatives for 3D visualization of <url link=\"https://en.wikipedia.org/wiki/Geographic_information_system\" text=\"GIS\"></url> solutions in:",
-                "techs": [{
-                        "name": "WPF",
-                        "link": "https://msdn.microsoft.com/en-us/library/ms754130(v=vs.110).aspx"
-                    },
-                    {
-                        "name": "Silverlight",
-                        "link": "https://www.microsoft.com/silverlight/"
-                    }
-                ]
-            },
-            {
-                "text": "Documented the principles of a new framework to be implement in .Net over which all company solutions would be implemented."
-            }
-        ]
-    },
+[
     {
-        "name": "Helponbiz",
-        "link": "http://www.helponbiz.com",
-        "text": "What a great company to work with, great people. There I:",
-        "tasks": [{
-                "text": "Maintained legacy solutions in:",
-                "techs": [{
-                        "name": "Classic ASP",
-                        "link": "https://msdn.microsoft.com/en-us/library/aa286483.aspx"
+        "name": "Xhail",
+        "link": "https://www.xhail.com/",
+        "text": "Playing the dangerous sport of mixing business and pleasure, in this case, three of my hobbies: programming, music and learning. Music software in a technology stack, although I've mostly played with, I never used professionally, almost completely.",
+        "tasks": [
+            {
+                "text": "As a small startup company, you get your hands on everything. Web-based application using:",
+                "techs": [
+                    {
+                        "name": "Ubuntu",
+                        "link": "https://www.ubuntu.com/"
                     },
                     {
-                        "name": "VB Script"
+                        "name": "IntelliJ IDEA",
+                        "link": "https://www.jetbrains.com/idea/"
                     },
                     {
-                        "name": "JavaScript"
+                        "name": "Play Framework (Java)",
+                        "link": "https://www.playframework.com/"
+                    },
+                    {
+                        "name": "PostgreSQL",
+                        "link": "https://www.postgresql.org/"
+                    },
+                    {
+                        "name": "Redis",
+                        "link": "https://redis.io/"
+                    },
+                    {
+                        "name": "Python",
+                        "link": "https://www.python.org/"
+                    },
+                    {
+                        "name": "jQuery",
+                        "link": "https://jquery.com/",
+                        "description": "and friends..."
+                    },
+                    {
+                        "name": "Heroku",
+                        "link": "https://www.heroku.com/"
+                    },
+                    {
+                        "name": "Amazon S3",
+                        "link": "https://aws.amazon.com/s3/"
+                    },
+                    {
+                        "name": "Sass",
+                        "link": "https://sass-lang.com/"
+                    },
+                    {
+                        "name": "React Native",
+                        "link": "https://reactnative.dev/"
+                    },
+                    {
+                        "name": "Redux",
+                        "link": "https://redux.js.org/"
+                    },
+                    {
+                        "name": "TypeScript",
+                        "link": "https://www.typescriptlang.org/"
                     }
                 ]
             },
             {
-                "text": "Conceptualized, architectured and implemented a generic and configurable <url link=\"https://en.wikipedia.org/wiki/Business_process_management\" text=\"BPM\"></url> solution using:",
-                "techs": [{
-                        "name": "HttpListener",
-                        "link": "https://msdn.microsoft.com/en-us/library/system.net.httplistener(v=vs.110).aspx",
-                        "description": "Self-hosted server"
+                "text": "Desktop App",
+                "techs": [
+                    {
+                        "name": "Electron",
+                        "link": "https://electronjs.org/"
                     },
                     {
-                        "name": "WCF Data Services",
-                        "link": "https://msdn.microsoft.com/en-us/library/cc668794(v=vs.110).aspx",
-                        "description": "Dynamically generated from cofiguration OData end-points"
-                    },
-                    {
-                        "name": "Sencha",
-                        "link": "https://www.sencha.com/",
-                        "description": "Dynamically generated client side templates"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Escher Group",
-        "link": "https://www.eschergroup.com/",
-        "text": "Oh! brave new world! My first job in Ireland, and for a multinational corporation and world leading company. What a learning experience. There I:",
-        "tasks": [{
-                "text": "Architectured and implemented a system to integrate in the company's proprietary solution <url link=\"https://www.eschergroup.com/products/track-and-trace/\" text=\"track and tracing\"></url> of postal packages following <url link=\"http://www.upu.int/en/activities/standards/upu-technical-standards.html\" text=\"UPU Standards\"></url> using:",
-                "techs": [{
-                        "name": ".Net 3.5"
-                    },
-                    {
-                        "name": "ASP.Net MVC 4",
-                        "link": "http://www.asp.net/mvc/mvc4"
-                    },
-                    {
-                        "name": "AGString",
-                        "link": "https://en.wikipedia.org/wiki/Attribute_grammar",
-                        "description": "The company's amazing proprietary message system and serialization"
-                    },
-                    {
-                        "name": "Reflection",
-                        "link": "https://msdn.microsoft.com/en-us/library/system.reflection(v=vs.110).aspx"
+                        "name": "TypeScript",
+                        "link": "https://www.typescriptlang.org/"
                     }
                 ]
             },
             {
-                "text": "Maintained the existing solution working in:",
-                "techs": [{
-                        "name": "VB6"
+                "text": "Adobe Premier Integration",
+                "techs": [
+                    {
+                        "name": "Adobe Developer API",
+                        "link": "https://developer.adobe.com/premiere-pro/"
                     },
                     {
                         "name": "C++"
-                    },
-                    {
-                        "name": "CashierPro",
-                        "link": "http://www.cashierpro.com/"
-                    },
-                    {
-                        "name": ".Net 3.5"
-                    },
-                    {
-                        "name": "...and a couple of internal proprietary languages and tools."
                     }
                 ]
             },
             {
-                "text": "R&Ded, PoCed, conceptualized, architectured and implemented a new solution for a strongly-typed, generic, cross-platform workflow handling (yes, another BMP) that works in and using:",
-                "techs": [{
-                        "name": "Windows: PocketPC, CE, Mobile 5+, Embedded, 7+, Phone 8+, 10 and 10 Mobile (UAP and WPF)"
+                "text": "Audio Library for Mobile App",
+                "techs": [
+                    {
+                        "name": "JUCE",
+                        "link": "https://juce.com/"
                     },
                     {
-                        "name": "Android"
+                        "name": "C and C++ linking for Dart FFI interop"
                     },
                     {
-                        "name": "iOS"
+                        "name": "Dart",
+                        "link": "https://dart.dev/"
                     },
                     {
-                        "name": ".Net 3.5"
+                        "name": "Flutter",
+                        "link": "https://flutter.dev/"
                     },
                     {
-                        "name": "WPF"
+                        "name": "iOS",
+                        "link": "https://www.apple.com/ios/"
                     },
                     {
-                        "name": "Resco MobileForms Toolkit",
-                        "link": "http://www.resco.net/mobileformstoolkit/"
-                    },
-                    {
-                        "name": "DI",
-                        "link": "https://en.wikipedia.org/wiki/Dependency_injection"
-                    },
-                    {
-                        "name": "IoC",
-                        "link": "https://en.wikipedia.org/wiki/Inversion_of_control"
-                    },
-                    {
-                        "name": "PCL",
-                        "link": "https://msdn.microsoft.com/en-us/library/gg597391(v=vs.110).aspx"
-                    },
-                    {
-                        "name": "Xamarin iOS, Android and Forms",
-                        "link": "https://www.xamarin.com/"
-                    },
-                    {
-                        "name": "Asp.Net MVC 4 Web Api",
-                        "link": "http://www.asp.net/mvc/mvc4"
-                    },
-                    {
-                        "name": "NuGet",
-                        "link": "http://www.nuget.org/",
-                        "description": "Self-hosted"
-                    },
-                    {
-                        "name": "NAnt",
-                        "link": "http://nant.sourceforge.net/"
-                    },
-                    {
-                        "name": "Bamboo Build Server",
-                        "link": "https://www.atlassian.com/software/bamboo"
+                        "name": "Android",
+                        "link": "https://www.android.com/"
                     }
                 ]
             }
@@ -192,9 +121,11 @@
         "name": "Oneview Healthcare",
         "link": "http://www.oneviewhealthcare.com/",
         "text": "What a great company to be an employee. I've worked a bit everywhere in the company's solution, from back-end to fron-end, client apps, build, setup and integration tools.",
-        "tasks": [{
+        "tasks": [
+            {
                 "text": "Maintained and extended setup, integration and deployment tools using:",
-                "techs": [{
+                "techs": [
+                    {
                         "name": "ASP.Net MVC 4",
                         "link": "http://www.asp.net/mvc/mvc4"
                     },
@@ -214,7 +145,8 @@
             },
             {
                 "text": "Worked in porting the existing backend system to <url text=\"MicroServices\" link=\"http://microservices.io/patterns/microservices.html\"></url>, using:",
-                "techs": [{
+                "techs": [
+                    {
                         "name": "NServiceBus",
                         "link": "http://particular.net/nservicebus"
                     },
@@ -337,71 +269,203 @@
         ]
     },
     {
-        "name": "Xhail",
-        "link": "https://www.xhail.com/",
-        "text": "Playing the dangerous sport of mixing business and pleasure, in this case, three of my hobbies: programming, music and learning. Music software in a technology stack, although I've mostly played with, I never used professionally, almost completely.",
-        "tasks":[
+        "name": "Escher Group",
+        "link": "https://www.eschergroup.com/",
+        "text": "Oh! brave new world! My first job in Ireland, and for a multinational corporation and world leading company. What a learning experience. There I:",
+        "tasks": [
             {
-                "text": "As a small startup company, you get your hands on everything. Web-based application using:",
-                "techs":[
+                "text": "Architectured and implemented a system to integrate in the company's proprietary solution <url link=\"https://www.eschergroup.com/products/track-and-trace/\" text=\"track and tracing\"></url> of postal packages following <url link=\"http://www.upu.int/en/activities/standards/upu-technical-standards.html\" text=\"UPU Standards\"></url> using:",
+                "techs": [
                     {
-                        "name": "Ubuntu",
-                        "link": "https://www.ubuntu.com/"
+                        "name": ".Net 3.5"
                     },
                     {
-                        "name": "IntelliJ IDEA",
-                        "link": "https://www.jetbrains.com/idea/"
+                        "name": "ASP.Net MVC 4",
+                        "link": "http://www.asp.net/mvc/mvc4"
                     },
                     {
-                        "name": "Play Framework (Java)",
-                        "link": "https://www.playframework.com/"
+                        "name": "AGString",
+                        "link": "https://en.wikipedia.org/wiki/Attribute_grammar",
+                        "description": "The company's amazing proprietary message system and serialization"
                     },
                     {
-                        "name": "PostgreSQL",
-                        "link": "https://www.postgresql.org/"
-                    },
-                    {
-                        "name": "Redis",
-                        "link": "https://redis.io/"
-                    },
-                    {
-                        "name": "Python",
-                        "link": "https://www.python.org/"
-                    },
-                    {
-                        "name": "jQuery",
-                        "link": "https://jquery.com/",
-                        "description": "and friends..."
-                    },
-                    {
-                        "name": "Heroku",
-                        "link": "https://www.heroku.com/"
-                    },
-                    {
-                        "name": "Amazon S3",
-                        "link": "https://aws.amazon.com/s3/"
-                    },
-                    {
-                        "name": "Electron",
-                        "link": "https://electronjs.org/"
-                    },
-                    {
-                        "name": "Sass",
-                        "link": "https://sass-lang.com/"
-                    },
-                    {
-                        "name": "React Native",
-                        "link": "https://reactnative.dev/"
-                    },
-                    {
-                        "name": "Redux",
-                        "link": "https://redux.js.org/"
-                    },
-                    {
-                        "name": "TypeScript",
-                        "link": "https://www.typescriptlang.org/"
+                        "name": "Reflection",
+                        "link": "https://msdn.microsoft.com/en-us/library/system.reflection(v=vs.110).aspx"
                     }
                 ]
+            },
+            {
+                "text": "Maintained the existing solution working in:",
+                "techs": [
+                    {
+                        "name": "VB6"
+                    },
+                    {
+                        "name": "C++"
+                    },
+                    {
+                        "name": "CashierPro",
+                        "link": "http://www.cashierpro.com/"
+                    },
+                    {
+                        "name": ".Net 3.5"
+                    },
+                    {
+                        "name": "...and a couple of internal proprietary languages and tools."
+                    }
+                ]
+            },
+            {
+                "text": "R&Ded, PoCed, conceptualized, architectured and implemented a new solution for a strongly-typed, generic, cross-platform workflow handling (yes, another BMP) that works in and using:",
+                "techs": [
+                    {
+                        "name": "Windows: PocketPC, CE, Mobile 5+, Embedded, 7+, Phone 8+, 10 and 10 Mobile (UAP and WPF)"
+                    },
+                    {
+                        "name": "Android"
+                    },
+                    {
+                        "name": "iOS"
+                    },
+                    {
+                        "name": ".Net 3.5"
+                    },
+                    {
+                        "name": "WPF"
+                    },
+                    {
+                        "name": "Resco MobileForms Toolkit",
+                        "link": "http://www.resco.net/mobileformstoolkit/"
+                    },
+                    {
+                        "name": "DI",
+                        "link": "https://en.wikipedia.org/wiki/Dependency_injection"
+                    },
+                    {
+                        "name": "IoC",
+                        "link": "https://en.wikipedia.org/wiki/Inversion_of_control"
+                    },
+                    {
+                        "name": "PCL",
+                        "link": "https://msdn.microsoft.com/en-us/library/gg597391(v=vs.110).aspx"
+                    },
+                    {
+                        "name": "Xamarin iOS, Android and Forms",
+                        "link": "https://www.xamarin.com/"
+                    },
+                    {
+                        "name": "Asp.Net MVC 4 Web Api",
+                        "link": "http://www.asp.net/mvc/mvc4"
+                    },
+                    {
+                        "name": "NuGet",
+                        "link": "http://www.nuget.org/",
+                        "description": "Self-hosted"
+                    },
+                    {
+                        "name": "NAnt",
+                        "link": "http://nant.sourceforge.net/"
+                    },
+                    {
+                        "name": "Bamboo Build Server",
+                        "link": "https://www.atlassian.com/software/bamboo"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Helponbiz",
+        "link": "http://www.helponbiz.com",
+        "text": "What a great company to work with, great people. There I:",
+        "tasks": [
+            {
+                "text": "Maintained legacy solutions in:",
+                "techs": [
+                    {
+                        "name": "Classic ASP",
+                        "link": "https://msdn.microsoft.com/en-us/library/aa286483.aspx"
+                    },
+                    {
+                        "name": "VB Script"
+                    },
+                    {
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            {
+                "text": "Conceptualized, architectured and implemented a generic and configurable <url link=\"https://en.wikipedia.org/wiki/Business_process_management\" text=\"BPM\"></url> solution using:",
+                "techs": [
+                    {
+                        "name": "HttpListener",
+                        "link": "https://msdn.microsoft.com/en-us/library/system.net.httplistener(v=vs.110).aspx",
+                        "description": "Self-hosted server"
+                    },
+                    {
+                        "name": "WCF Data Services",
+                        "link": "https://msdn.microsoft.com/en-us/library/cc668794(v=vs.110).aspx",
+                        "description": "Dynamically generated from cofiguration OData end-points"
+                    },
+                    {
+                        "name": "Sencha",
+                        "link": "https://www.sencha.com/",
+                        "description": "Dynamically generated client side templates"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AMBISIG",
+        "link": "http://www.ambisig.com",
+        "text": "My first job as a developer...the memories. In the, a bit over a, year and a half there I:",
+        "tasks": [
+            {
+                "text": "Worked in the implementation and maintenance of a solution for public services to manage their public money following the \"strict\" portuguese public money laws. Working with:",
+                "techs": [
+                    {
+                        "name": "Asp.Net 2.0"
+                    },
+                    {
+                        "name": "Telerik Asp.Net RadControls suit",
+                        "link": "http://www.telerik.com/products/aspnet-ajax.aspx"
+                    },
+                    {
+                        "name": "MS SQL 2005"
+                    },
+                    {
+                        "name": "Crystal Reports",
+                        "link": "http://www.sap.com/solution/sme/software/analytics/crystal-bi/index.html"
+                    }
+                ]
+            },
+            {
+                "text": "Maintained a solution for municipalities to handle and charge water using:",
+                "techs": [
+                    {
+                        "name": "ASP.Net 1.1"
+                    },
+                    {
+                        "name": "MS SQL 2000"
+                    }
+                ]
+            },
+            {
+                "text": "R&amp;Ded alternatives for 3D visualization of <url link=\"https://en.wikipedia.org/wiki/Geographic_information_system\" text=\"GIS\"></url> solutions in:",
+                "techs": [
+                    {
+                        "name": "WPF",
+                        "link": "https://msdn.microsoft.com/en-us/library/ms754130(v=vs.110).aspx"
+                    },
+                    {
+                        "name": "Silverlight",
+                        "link": "https://www.microsoft.com/silverlight/"
+                    }
+                ]
+            },
+            {
+                "text": "Documented the principles of a new framework to be implement in .Net over which all company solutions would be implemented."
             }
         ]
     }

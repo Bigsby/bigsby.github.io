@@ -9,7 +9,7 @@
                         {
                             "name": "WPF",
                             "link": "https://msdn.microsoft.com/en-us/library/ms754130(v=vs.110).aspx",
-                            "description": "3.0 to 4.5"
+                            "description": "3.0+"
                         },
                         {
                             "name": "Xamarin Forms",
@@ -39,6 +39,22 @@
                     "name": "Web sites/apps",
                     "items": [
                         {
+                            "name": "Angular 2+",
+                            "link": "https://angular.io/"
+                        },
+                        {
+                            "name": "Vue.js",
+                            "link": "https://vuejs.org/"
+                        },
+                        {
+                            "name": "React",
+                            "link": "https://reactjs.org/"
+                        },
+                        {
+                            "name": "Redux",
+                            "link": "https://redux.js.org/"
+                        },
+                        {
                             "name": "Vanilla JS",
                             "link": "http://vanilla-js.com/"
                         },
@@ -55,24 +71,8 @@
                             "link": "https://angularjs.org/"
                         },
                         {
-                            "name": "Angular 2+",
-                            "link": "https://angular.io/"
-                        },
-                        {
                             "name": "jQuery",
                             "link": "https://jquery.com/"
-                        },
-                        {
-                            "name": "Vue.js",
-                            "link": "https://vuejs.org/"
-                        },
-                        {
-                            "name": "React",
-                            "link": "https://reactjs.org/"
-                        },
-                        {
-                            "name": "Redux",
-                            "link": "https://redux.js.org/"
                         }
                     ]
                 },
@@ -82,21 +82,25 @@
                         {
                             "name": "ASP.Net",
                             "link": "https://www.asp.net/",
-                            "description": "1.1 to Core"
+                            "description": "1.1+"
                         },
                         {
                             "name": "ASP.Net MVC",
                             "link": "https://www.asp.net/mvc",
-                            "description": "1 to Core"
+                            "description": "1+"
                         },
                         {
                             "name": "ASP.Net Web Forms",
                             "link": "https://www.asp.net/web-forms",
-                            "description": "1.0 to 3.5"
+                            "description": "1.0+"
                         },
                         {
                             "name": "ASP.Net Web API",
                             "link": "https://www.asp.net/web-api"
+                        },
+                        {
+                            "name": "FastAPI",
+                            "link": "https://fastapi.tiangolo.com/"
                         },
                         {
                             "name": "SignalR",
@@ -203,6 +207,10 @@
                                     "link": "https://aws.amazon.com/s3/"
                                 }
                             ]
+                        },
+                        {
+                            "name": "Heroku",
+                            "link": "https://www.heroku.com/"
                         }
                     ]
                 }
@@ -212,9 +220,14 @@
             "name": "Software",
             "items": [
                 {
+                    "name": "Vim",
+                    "link": "https://www.vim.org/",
+                    "description": "The ubiquitous text editor"
+                },
+                {
                     "name": "Visual Studio",
                     "link": "https://www.visualstudio.com/",
-                    "description": "2003, 2005, 2008, 2010, 2012, 2013, 2015, 2017 and Code"
+                    "description": "2003+, Code and for Mac"
                 },
                 {
                     "name": "Xamarin Studio",
@@ -223,6 +236,10 @@
                 {
                     "name": "Android Studio",
                     "link": "https://developer.android.com/studio/"
+                },
+                {
+                    "name": "Xcode",
+                    "link": "https://developer.apple.com/support/xcode/"
                 },
                 {
                     "name": "IntelliJ IDEA",
@@ -283,7 +300,7 @@
                             "subItems": [
                                 {
                                     "name": "Ubuntu",
-                                    "link": "http://www.ubuntu.com/desktop"
+                                    "link": "http://www.ubuntu.com/"
                                 },
                                 {
                                     "name": "Debian",
@@ -304,7 +321,7 @@
                                 },
                                 {
                                     "name": "Ubuntu",
-                                    "link": "http://www.ubuntu.com/server"
+                                    "link": "http://www.ubuntu.com/"
                                 },
                                 {
                                     "name": "Fedora",
@@ -313,6 +330,10 @@
                                 {
                                     "name": "OpenBSD",
                                     "link": "https://www.openbsd.org/"
+                                },
+                                {
+                                    "name": "FreeBSD",
+                                    "link": "https://www.freebsd.org/"
                                 }
                             ]
                         }
@@ -321,7 +342,7 @@
                 {
                     "name": "Mac OS",
                     "link": "http://www.apple.com/ie/macos/sierra/",
-                    "description": "9 to macOS"
+                    "description": "9+"
                 }
             ]
         },
@@ -329,23 +350,36 @@
             "name": "Programming & Languages",
             "items": [
                 {
+                    "name": "C"
+                },
+                {
+                    "name": "Python",
+                    "link": "https://www.python.org/"
+                },
+                {
                     "name": "C#",
                     "link": "https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx",
-                    "description": "3 to 7"
+                    "description": "3.0+"
+                },
+                {
+                    "name": "C++",
+                    "link": "https://isocpp.org/"
                 },
                 {
                     "name": "HTML",
-                    "link": "https://www.w3schools.com/tags/default.asp",
-                    "description": "many flavours, including 5"
+                    "link": "https://www.w3schools.com/tags/default.asp"
                 },
                 {
                     "name": "TypeScript",
-                    "link": "https://www.typescriptlang.org/",
-                    "description": "1 and 2"
+                    "link": "https://www.typescriptlang.org/"
                 },
                 {
                     "name": "JavaScript",
                     "link": "https://www.javascript.com/"
+                },
+                {
+                    "name": "Rust",
+                    "link": "https://www.rust-lang.org/"
                 },
                 {
                     "name": "JSON",
@@ -378,14 +412,6 @@
                     "link": "http://fsharp.org/"
                 },
                 {
-                    "name": "C/C++",
-                    "link": "https://isocpp.org/"
-                },
-                {
-                    "name": "Python",
-                    "link": "https://www.python.org/"
-                },
-                {
                     "name": "Ruby",
                     "link": "https://www.ruby-lang.org"
                 },
@@ -416,6 +442,10 @@
                 {
                     "name": "Perl",
                     "link": "https://perl.org"
+                },
+                {
+                    "name": "Erlang",
+                    "link": "https://www.erlang.org/"
                 },
                 {
                     "name": "VB.Net",
@@ -469,6 +499,14 @@
                     "name": "Build",
                     "items": [
                         {
+                            "name": "GNU Makefile",
+                            "link": "https://www.gnu.org/software/make/manual/make.html"
+                        },
+                        {
+                            "name": "CMake",
+                            "link": "https://cmake.org/"
+                        },
+                        {
                             "name": "Bamboo",
                             "link": "https://www.atlassian.com/software/bamboo"
                         },
@@ -492,10 +530,6 @@
                         {
                             "name": "NAnt",
                             "link": "http://nant.sourceforge.net/"
-                        },
-                        {
-                            "name": "GNU Makefile",
-                            "link": "https://www.gnu.org/software/make/manual/make.html"
                         }
                     ]
                 },
@@ -535,6 +569,10 @@
                 {
                     "name": "Deploy",
                     "items": [
+                        {
+                            "name": "Docker",
+                            "link": "https://www.docker.com/"
+                        },
                         {
                             "name": "Visual Studio App Center",
                             "link": "https://appcenter.ms/"
