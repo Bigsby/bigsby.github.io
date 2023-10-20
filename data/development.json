@@ -80,6 +80,10 @@
                     "name": "Server",
                     "items": [
                         {
+                            "name": "ASP.Net Core",
+                            "link": "https://dotnet.microsoft.com/en-us/apps/aspnet"
+                        },
+                        {
                             "name": "ASP.Net",
                             "link": "https://www.asp.net/",
                             "description": "1.1+"
@@ -99,7 +103,7 @@
                             "link": "https://www.asp.net/web-api"
                         },
                         {
-                            "name": "FastAPI",
+                            "name": "Python FastAPI",
                             "link": "https://fastapi.tiangolo.com/"
                         },
                         {
@@ -498,6 +502,10 @@
                 {
                     "name": "Build",
                     "items": [
+                        {
+                            "name": "Azure DevOps",
+                            "link": "https://azure.microsoft.com/en-us/products/devops"
+                        },
                         {
                             "name": "GNU Makefile",
                             "link": "https://www.gnu.org/software/make/manual/make.html"
