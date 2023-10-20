@@ -180,7 +180,8 @@
                         "link": "http://dbunit-net.sourceforge.net/GettingStarted.html"
                     },
                     {
-                        "name": "Azure Pipelines"
+                        "name": "Azure DevOps",
+                        "link": "https://azure.microsoft.com/en-us/products/devops"
                     }
                 ]
             },
