@@ -147,6 +147,10 @@
                 "text": "Worked in porting the existing backend system to <url text=\"MicroServices\" link=\"http://microservices.io/patterns/microservices.html\"></url>, using:",
                 "techs": [
                     {
+                        "name": ".net Core",
+                        "link": "https: //dotnet.microsoft.com/"
+                    },
+                    {
                         "name": "NServiceBus",
                         "link": "http://particular.net/nservicebus"
                     },
@@ -174,6 +178,9 @@
                     {
                         "name": "DbUnit.NET",
                         "link": "http://dbunit-net.sourceforge.net/GettingStarted.html"
+                    },
+                    {
+                        "name": "Azure Pipelines"
                     }
                 ]
             },
