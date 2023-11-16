@@ -229,6 +229,10 @@
                     "description": "The ubiquitous text editor"
                 },
                 {
+                    "name": "Neovim",
+                    "link": "https://neovim.io/"
+                },
+                {
                     "name": "Visual Studio",
                     "link": "https://www.visualstudio.com/",
                     "description": "2003+, Code and for Mac"
@@ -384,6 +388,10 @@
                 {
                     "name": "Rust",
                     "link": "https://www.rust-lang.org/"
+                },
+                {
+                    "name": "Lua",
+                    "link": "https://www.lua.org/"
                 },
                 {
                     "name": "JSON",
