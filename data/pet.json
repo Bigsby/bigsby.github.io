@@ -5,6 +5,11 @@
         "text": "Solving the very entertaining and educating puzzels of this most fun coding adventure. In multiple languages, e.g., Python, C#, Rust, C, C++, JavaScript, Go..."
     },
     {
+        "name": "Flow Solver",
+        "link": "https://github.com/Bigsby/flow",
+        "text": "Solving a puzzle game programatically"
+    },
+    {
         "name": "Integrated Circuits Logic",
         "link": "https://ics.bigsbyspot.org/",
         "text": "In the process of learning how compueters work at a logic level, I've been trying some ICs (Integrated Circuits) to test their behavior."
