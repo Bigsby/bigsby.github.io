@@ -32,6 +32,10 @@
                         {
                             "name": "React Native",
                             "link": "https://reactnative.dev/"
+                        },
+                        {
+                            "name": "Electron",
+                            "link": "https://www.electronjs.org/"
                         }
                     ]
                 },

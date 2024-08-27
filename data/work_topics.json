@@ -1,0 +1,16 @@
+{
+    "industries": [
+        "Generic Line of Business and Business Process Managment solutions",
+        "Postal Service software",
+        "Healthecare solutions",
+        "Point of Sale software",
+        "Music software"
+    ],
+    "stacks": [
+        "Backend monoliths and microservices",
+        "Web frontends",
+        "Desktop frontends",
+        "Device driver",
+        "Sound processing libraries"
+    ]
+}

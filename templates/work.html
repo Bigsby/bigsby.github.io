@@ -1,20 +1,13 @@
-<p>Working as a developer...full of goodies:</p>
-<ul ng-controller="workController as vm" class="noBulletList">
-    <li ng-repeat="company in vm.companies" class="work-item">
-        <h3>
-            <url href="{{company.link}}" text="{{company.name}}"></url>
-        </h3>
-        {{company.text}}
-        <ul>
-            <li ng-repeat="task in company.tasks">
-                <p bind-html-compile="task.text"></p>
-                <ul>
-                    <li ng-repeat="item in task.techs">
-                        <dev-item item="item"></dev-item>
-                    </li>
-                </ul>
-            </li>
-        </ul>
+<p>I've worked on a variety of industries like:</p>
+<ul ng-controller="workController as vm">
+    <li ng-repeat="industry in vm.industries">
+        {{industry}}
+    </li>
+</ul>
+<p>... and on a variety of tech stacks like:</p>
+<ul ng-controller="workController as vm">
+    <li ng-repeat="stack in vm.stacks">
+        {{stack}}
     </li>
 </ul>
 <p>My

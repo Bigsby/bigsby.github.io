@@ -11,7 +11,8 @@ module.exports = {
         }]);
 
         app.controller("workController", ["data", function (data) {
-            this.companies = data.work;
+            this.industries = data.work_topics.industries;
+            this.stacks = data.work_topics.stacks;
         }]);
 
         app.controller("petController", ["data", function (data) {
