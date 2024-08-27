@@ -346,6 +346,10 @@
                     "link": "https://www.jetbrains.com/idea/"
                 },
                 {
+                    "name": "PlatformIO IDE",
+                    "link": "https://platformio.org/platformio-ide"
+                },
+                {
                     "name": "IIS Manager"
                 },
                 {
