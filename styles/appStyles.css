@@ -44,3 +44,7 @@ li.work-item {
 header {
   padding: 1em;
 }
+
+img.avatar {
+  width: 2em;
+}
