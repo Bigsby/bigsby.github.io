@@ -9,6 +9,7 @@
     "stacks": [
         "Backend monoliths and microservices",
         "Web frontends",
+        "Mobile apps (Android, iOS)",
         "Desktop frontends",
         "Device driver",
         "Sound processing libraries"

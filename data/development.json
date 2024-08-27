@@ -36,6 +36,22 @@
                         {
                             "name": "Electron",
                             "link": "https://www.electronjs.org/"
+                        },
+                        {
+                            "name": "Flutter",
+                            "link": "https://flutter.dev/"
+                        },
+                        {
+                            "name": ".Net Compact Framework",
+                            "link": "https://support.microsoft.com/en-us/topic/the-net-compact-framework-3-5-for-windows-embedded-ce-6-0-r2-is-available-c5913457-9a90-80fe-6293-0d6971b5407f"
+                        },
+                        {
+                            "name": "CashierPRO",
+                            "link": "https://www.cashierpro.com/"
+                        },
+                        {
+                            "name": "Microsoft Foundation Class (MFC)",
+                            "link": "https://learn.microsoft.com/en-us/cpp/mfc/mfc-application-architecture-classes?view=msvc-170"
                         }
                     ]
                 },
@@ -107,6 +123,10 @@
                             "link": "https://www.asp.net/web-api"
                         },
                         {
+                            "name": "ASP.Net Core Ocelot Gateway",
+                            "link": "https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/implement-api-gateways-with-ocelot"
+                        },
+                        {
                             "name": "Python FastAPI",
                             "link": "https://fastapi.tiangolo.com/"
                         },
@@ -134,7 +154,7 @@
                             ]
                         },
                         {
-                            "name": "WCF",
+                            "name": "Windows Communication Foundation (WCF)",
                             "link": "https://msdn.microsoft.com/en-us/library/ms731082(v=vs.110).aspx",
                             "subItems": [
                                 {
@@ -147,14 +167,27 @@
                             ]
                         },
                         {
+                            "name": "Windows Identity Foundation (WIF)",
+                            "link": "https://learn.microsoft.com/en-us/previous-versions/troubleshoot/dotnet/framework/windows-identity-foundation"
+                        },
+                        {
+                            "name": "ADO.Net",
+                            "link": "https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview"
+                        },
+                        {
                             "name": "Entity Framework",
                             "link": "https://msdn.microsoft.com/data/ef.aspx",
                             "description": "3.5 to Core"
                         },
                         {
-                            "name": "oAuth",
+                            "name": "OAuth",
                             "link": "http://oauth.net/",
                             "description": "1(a) and 2"
+                        },
+                        {
+                            "name": "IdentityServer",
+                            "link": "https://identityserver4.readthedocs.io/",
+                            "description": "Secure Token Service (STS)"
                         },
                         {
                             "name": "NGINX",
@@ -195,8 +228,46 @@
                     "name": "Hosting / Cloud",
                     "items": [
                         {
-                            "name": "Windows Azure",
-                            "link": "https://azure.microsoft.com/"
+                            "name": "Microsoft Azure",
+                            "link": "https://azure.microsoft.com/",
+                            "subItems": [
+                                {
+                                    "name": "Azure App Service",
+                                    "link": "https://azure.microsoft.com/en-us/products/app-service/"
+                                },
+                                {
+                                    "name": "Azure Functions",
+                                    "link": "https://azure.microsoft.com/en-us/products/functions/"
+                                },
+                                {
+                                    "name": "Azure SQL",
+                                    "link": "https://azure.microsoft.com/en-us/products/azure-sql/"
+                                },
+                                {
+                                    "name": "Azure Cache for Redis",
+                                    "link": "https://azure.microsoft.com/en-us/products/cache/"
+                                },
+                                {
+                                    "name": "Table Storage",
+                                    "link": "https://azure.microsoft.com/en-us/products/storage/tables/"
+                                },
+                                {
+                                    "name": "Azure DevOps",
+                                    "link": "https://azure.microsoft.com/en-us/products/devops/"
+                                },
+                                {
+                                    "name": "Azure Pipeplines",
+                                    "link": "https://azure.microsoft.com/en-us/products/devops/pipelines/"
+                                },
+                                {
+                                    "name": "Microsoft Entra ID",
+                                    "link": "https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id"
+                                },
+                                {
+                                    "name": "Azure Active Directory B2C",
+                                    "link": "https://azure.microsoft.com/en-us/products/active-directory-b2c/"
+                                }
+                            ]
                         },
                         {
                             "name": "Amazon Web Services (AWS)",
@@ -213,12 +284,29 @@
                                 {
                                     "name": "Simple Storage Service (S3)",
                                     "link": "https://aws.amazon.com/s3/"
+                                },
+                                {
+                                    "name": "Amazon Cognito",
+                                    "link": "https://aws.amazon.com/cognito/"
+                                },
+                                {
+                                    "name": "AWS Lambda",
+                                    "link": "https://aws.amazon.com/lambda/"
+                                },
+                                {
+                                    "name": "Amazon CloudFront",
+                                    "link": "https://aws.amazon.com/cloudfront/"
                                 }
                             ]
                         },
                         {
                             "name": "Heroku",
                             "link": "https://www.heroku.com/"
+                        },
+                        {
+                            "name": "Okta",
+                            "link": "https://www.okta.com/",
+                            "description": "Identity Provider"
                         }
                     ]
                 }
@@ -283,6 +371,10 @@
                     "name": "Sibelius",
                     "link": "http://www.avid.com/sibelius",
                     "description": "5 to 7"
+                },
+                {
+                    "name": "MuseScore",
+                    "link": "https://musescore.org/"
                 }
             ]
         },
@@ -388,6 +480,10 @@
                 {
                     "name": "JavaScript",
                     "link": "https://www.javascript.com/"
+                },
+                {
+                    "name": "Dart",
+                    "link": "https://dart.dev/"
                 },
                 {
                     "name": "Rust",
@@ -527,6 +623,10 @@
                             "link": "https://cmake.org/"
                         },
                         {
+                            "name": "Gradle",
+                            "link": "https://gradle.org/"
+                        },
+                        {
                             "name": "Bamboo",
                             "link": "https://www.atlassian.com/software/bamboo"
                         },
@@ -610,7 +710,7 @@
                             "link": "http://wixtoolset.org/"
                         },
                         {
-                            "name": "Octupus Deploy",
+                            "name": "Octopus Deploy",
                             "link": "https://octopus.com/"
                         },
                         {
@@ -626,6 +726,10 @@
                             "name": "Microsoft SQL Server",
                             "link": "https://www.microsoft.com/en-us/sql-server/",
                             "description": "2000, 2005, 2008, 2012 (including Express)"
+                        },
+                        {
+                            "name": "PostgreSQL",
+                            "link": "https://www.postgresql.org/"
                         },
                         {
                             "name": "Azure Cosmos DB",
@@ -647,10 +751,6 @@
                         {
                             "name": "MongoDB",
                             "link": "https://www.mongodb.com/"
-                        },
-                        {
-                            "name": "PostgreSQL",
-                            "link": "https://www.postgresql.org/"
                         },
                         {
                             "name": "Redis",
@@ -682,10 +782,28 @@
                             "link": "https://msdn.microsoft.com/en-us/library/aa394582(v=vs.85).aspx"
                         },
                         {
+                            "name": "Foreign Function Interface (FFI)",
+                            "link": "https://en.wikipedia.org/wiki/Foreign_function_interface"
+                        },
+                        {
+                            "name": ".Net Portable Class Libraries (PCL) and .Net Standard",
+                            "link": "https://learn.microsoft.com/en-us/dotnet/standard/class-libraries"
+                        },
+                        {
                             "name": "UDP, TCP and HTTP handling"
                         },
                         {
                             "name": "CA, SSL and Client Certificates"
+                        },
+                        {
+                            "name": "JUCE",
+                            "link": "https://juce.com/",
+                            "description": "Audio framework"
+                        },
+                        {
+                            "name": "UPU",
+                            "link": "https://www.upu.int/",
+                            "description": "International Postal Services Standards"
                         },
                         {
                             "name": "HL7 - Health Level Seven",
