@@ -56,7 +56,7 @@
                     ]
                 },
                 {
-                    "name": "Web sites/apps",
+                    "name": "Web Frameworks",
                     "items": [
                         {
                             "name": "Angular 2+",
@@ -386,22 +386,42 @@
                     "link": "https://www.microsoft.com/en-us/windows",
                     "subItems": [
                         {
-                            "name": "PC: XP, Vista, 7, 8, 8.1, 10 (including IoT)"
+                            "name": "Desktop:",
+                            "subItems": [
+                                {
+                                    "name": "XP, Vista, 7, 8, 8.1, 10 (including IoT)"
+                                }
+                            ]
                         },
                         {
-                            "name": "Server: 2003, 2008, 2008R2, 2012"
+                            "name": "Server:",
+                            "subItems": [
+                                {
+                                    "name": "2003, 2008, 2008R2, 2012"
+                                }
+                            ]
                         },
                         {
-                            "name": "Mobile: CE, Mobile, Phone 7, Phone 8, Phone 8.1, 10 Mobile"
+                            "name": "Mobile:",
+                            "subItems": [
+                                {
+                                    "name": "CE, Mobile, Phone 7, Phone 8, Phone 8.1, 10 Mobile"
+                                }
+                            ]
                         }
                     ]
                 },
                 {
-                    "name": "Linux",
+                    "name": "Unix-like",
                     "subItems": [
                         {
-                            "name": "PC:",
+                            "name": "Desktop:",
                             "subItems": [
+                                {
+                                    "name": "macOS",
+                                    "link": "http://www.apple.com/macos/",
+                                    "description": "9+"
+                                },
                                 {
                                     "name": "Ubuntu",
                                     "link": "http://www.ubuntu.com/"
@@ -432,6 +452,10 @@
                                     "link": "https://start.fedoraproject.org/"
                                 },
                                 {
+                                    "name": "Alpine Linux",
+                                    "link": "https://alpinelinux.org/"
+                                },
+                                {
                                     "name": "OpenBSD",
                                     "link": "https://www.openbsd.org/"
                                 },
@@ -440,13 +464,53 @@
                                     "link": "https://www.freebsd.org/"
                                 }
                             ]
+                        },
+                        {
+                            "name": "Mobile",
+                            "subItems": [
+                                {
+                                    "name": "Android",
+                                    "link": "https://www.android.com/"
+                                },
+                                {
+                                    "name": "iOS",
+                                    "link": "https://www.apple.com/ios/"
+                                },
+                                {
+                                    "name": "iPadOS",
+                                    "link": "https://www.apple.com/ipados/"
+                                }
+                            ]
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "name": "Architectures",
+            "items": [
+                {
+                    "name": "x86_64 / AMD64"
                 },
                 {
-                    "name": "Mac OS",
-                    "link": "http://www.apple.com/ie/macos/sierra/",
-                    "description": "9+"
+                    "name": "ARM",
+                    "link": "https://www.arm.com/"
+                },
+                {
+                    "name": "RISC-V",
+                    "link": " https://riscv.org/"
+                },
+                {
+                    "name": "AVR",
+                    "link": "https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"
+                },
+                {
+                    "name": "6502",
+                    "link": "https://en.wikipedia.org/wiki/MOS_Technology_6502"
+                },
+                {
+                    "name": "Zilog Z80",
+                    "link": "https://en.wikipedia.org/wiki/Zilog_Z80"
                 }
             ]
         },
@@ -759,6 +823,27 @@
                     ]
                 },
                 {
+                    "name": "IoT",
+                    "items": [
+                        {
+                            "name": "Rasberry Pi",
+                            "link": "https://www.raspberrypi.org/"
+                        },
+                        {
+                            "name": "Arduino",
+                            "link": "https://www.arduino.cc/"
+                        },
+                        {
+                            "name": "ESP32",
+                            "link": "https://www.espressif.com/en/products/socs/esp32"
+                        },
+                        {
+                            "name": "TTL",
+                            "link": "https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor_logic"
+                        }
+                    ]
+                },
+                {
                     "name": "Other",
                     "items": [
                         {
@@ -788,6 +873,10 @@
                         {
                             "name": ".Net Portable Class Libraries (PCL) and .Net Standard",
                             "link": "https://learn.microsoft.com/en-us/dotnet/standard/class-libraries"
+                        },
+                        {
+                            "name": "AT Commands",
+                            "link": "https://www.twilio.com/docs/iot/supersim/introduction-to-modem-at-commands"
                         },
                         {
                             "name": "UDP, TCP and HTTP handling"
