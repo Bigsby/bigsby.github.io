@@ -1,53 +1,6 @@
 [
     {
-        "name": "Oneview Healthcare",
-        "link": "http://www.oneviewhealthcare.com/",
-        "tasks": [
-            {
-                "text": "Refactor/re-implement microservices updating from .Net 3.1 to .Net 8.0",
-                "techs": [
-                    {
-                        "name": ".Net Core",
-                        "link": "https://dot.net/"
-                    },
-                    {
-                        "name": "Ocelot - Gateway",
-                        "link": "https://github.com/ThreeMammals/Ocelot"
-                    },
-                    {
-                        "name": "NServiceBus",
-                        "link": "https://particular.net/nservicebus"
-                    },
-                    {
-                        "name": "RabbitMQ",
-                        "link": "https://www.rabbitmq.com/"
-                    },
-                    {
-                        "name": "SignalR",
-                        "link": "https://learn.microsoft.com/en-us/aspnet/core/signalr/"
-                    },
-                    {
-                        "name": "Redis - SignalR Backplane",
-                        "link": "https://redis.io/"
-                    },
-                    {
-                        "name": "NUnit",
-                        "link": "https://nunit.org/"
-                    },
-                    {
-                        "name": "moq",
-                        "link": "https://github.com/devlooped/moq"
-                    },
-                    {
-                        "name": "Fluent Assertions",
-                        "link": "https://fluentassertions.com/"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Xhail / HYPH",
+        "name": "Xhail/HYPH",
         "link": "https://www.hyph.com/",
         "text": "Playing the dangerous sport of mixing business and pleasure, in this case, three of my hobbies: programming, music and learning. Music software in a technology stack, although I've mostly played with, I never used professionally, almost completely.",
         "tasks": [
@@ -194,10 +147,6 @@
                 "text": "Worked in porting the existing backend system to <url text=\"MicroServices\" link=\"http://microservices.io/patterns/microservices.html\"></url>, using:",
                 "techs": [
                     {
-                        "name": ".net Core",
-                        "link": "https: //dotnet.microsoft.com/"
-                    },
-                    {
                         "name": "NServiceBus",
                         "link": "http://particular.net/nservicebus"
                     },
@@ -225,10 +174,6 @@
                     {
                         "name": "DbUnit.NET",
                         "link": "http://dbunit-net.sourceforge.net/GettingStarted.html"
-                    },
-                    {
-                        "name": "Azure DevOps",
-                        "link": "https://azure.microsoft.com/en-us/products/devops"
                     }
                 ]
             },

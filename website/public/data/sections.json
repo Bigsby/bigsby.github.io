@@ -1,0 +1,23 @@
+{
+    "hello": {
+        "title": "Hello!"
+    },
+    "bio": {
+        "title": "Bio"
+    },
+    "work": {
+        "title": "Work"
+    },
+    "developer": {
+        "title": "A developer"
+    },
+    "pet": {
+        "title": "Pet Projects"
+    },
+    "lives": {
+        "title": "Other Lives..."
+    },
+    "contact": {
+        "title": "Contact me"
+    }
+}
