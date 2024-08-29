@@ -842,8 +842,36 @@
                             "link": "https://www.espressif.com/en/products/socs/esp32"
                         },
                         {
+                            "name": "GPIO",
+                            "link": "https://en.wikipedia.org/wiki/General-purpose_input/output"
+                        },
+                        {
                             "name": "TTL",
                             "link": "https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor_logic"
+                        },
+                        {
+                            "name": "SPI",
+                            "link": "https://en.wikipedia.org/wiki/Serial_Peripheral_Interface"
+                        },
+                        {
+                            "name": "I²C",
+                            "link": "https://en.wikipedia.org/wiki/I%C2%B2C"
+                        },
+                        {
+                            "name": "UART",
+                            "link": "https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter"
+                        },
+                        {
+                            "name": "RS-232",
+                            "link": "https://en.wikipedia.org/wiki/RS-232"
+                        },
+                        {
+                            "name": "CAN Bus",
+                            "link": "https://en.wikipedia.org/wiki/CAN_bus"
+                        },
+                        {
+                            "name": "OBD",
+                            "link": "https://en.wikipedia.org/wiki/On-board_diagnostics"
                         }
                     ]
                 },
